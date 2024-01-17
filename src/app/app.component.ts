@@ -38,9 +38,6 @@ export class AppComponent implements OnInit {
     }
   }
 
-  onSubmit() {
-    console.log(this.inputValue);
-  }
 
   loadFilmsList() {
     films.forEach((film: Film) => this.filmsList.push(film));
@@ -53,6 +50,7 @@ export class AppComponent implements OnInit {
   ngOnInit(): void {
     // Prepare data ...
     this.filmsList.forEach((film: Film) => {
+      film.title = film.title.toString();
       film.releaseDecade = film.releaseDate.toString().slice(0, -1) + '0';      
       film.genre = film.genre.split('/')[0];
 
@@ -103,7 +101,9 @@ export class AppComponent implements OnInit {
       });
     });
 
+    console.log('Full Ontology is :')
     console.log(this.ontology);
+    console.log('-------------------')
   }
 
   onResetFilter() {
@@ -130,5 +130,57 @@ export class AppComponent implements OnInit {
       }
 
     });
+  }
+
+
+  onSearch() {
+    let foundConcepts = this.ontologySearch(this.ontology, this.inputValue.toLowerCase());
+    let foundFilms = this.filmsSearch(this.inputValue.toLowerCase()); // this does not work ! TODO
+    console.log(foundConcepts);
+    console.log(foundFilms);
+  }
+
+
+  checkSimilarity(word1: string, word2: string) {
+    if (word1 === word2 || word1.includes(word2) || word2.includes(word1)) {
+      return true;
+    }
+    return false;
+  }
+
+  filmsSearch(value: string) {
+    let films = [];
+
+    this.allFilms.forEach(f => {
+      if (this.checkSimilarity(f.title.toLowerCase(), value)) {
+        films.push(f);
+      }
+    });
+  }
+
+  ontologySearch(concept: Concept, value: string): Concept[] {
+    // value is always in lower case.
+
+    let foundConcepts: Concept[] = [];
+
+    concept.subs.forEach(sub => {
+
+      // first, check for names
+      if (this.checkSimilarity(sub.name.toLowerCase(), value)) {
+        foundConcepts.push(sub);
+      }
+
+      // second, check for films list
+      sub.films.forEach(f => {
+        if (this.checkSimilarity(f.toLowerCase(), value)) {
+          foundConcepts.push(sub);
+        }
+      });
+
+      // third, check for subs
+      foundConcepts = foundConcepts.concat(this.ontologySearch(sub, value))
+    });
+
+    return foundConcepts;
   }
 }
