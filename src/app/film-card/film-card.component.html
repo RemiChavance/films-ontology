@@ -1,0 +1,20 @@
+<div class="container-card">
+    <div class="card" (click)="onClick()">
+        <div class="header">{{ film.title }}</div>
+
+        <div *ngIf="clicked">
+            <div class="body">
+                <p>Réalisateur: {{ film.realisator }}</p>
+                <p (click)="onClickFilter('genre', film.genre)">Genre: <span style="color: blue; text-decoration:underline">{{ film.genre }}</span></p>
+                <br>
+                <p (click)="onClickFilter('actor1', film.actor1)"*ngIf="film.actor1">Tête d'affiche 1: <span style="color: blue; text-decoration:underline">{{ film.actor1 }}</span></p>
+                <p (click)="onClickFilter('actor2', film.actor2)"*ngIf="film.actor2">Tête d'affiche 2: <span style="color: blue; text-decoration:underline">{{ film.actor2 }}</span></p>
+                <br>
+                <p (click)="onClickFilter('releaseDate', film.releaseDate.toString())">Date de : <span style="color: blue; text-decoration:underline">{{ film.releaseDate }}</span></p>
+                <p (click)="onClickFilter('releaseDecade', film.releaseDecade!)">Film des années <span style="color: blue; text-decoration:underline">{{ film.releaseDecade }}</span></p>
+                <p (click)="onClickFilter('length', film.length)">Durée approximative: <span style="color: blue; text-decoration:underline">{{ film.length }}</span></p>
+            </div>
+            <div class="footer"></div>
+        </div>
+    </div> 
+<div>

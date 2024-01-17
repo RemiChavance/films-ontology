@@ -1,0 +1,39 @@
+.container-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    background: rgb(2,0,36);
+    background: linear-gradient(236deg, rgba(2,0,36,1) 0%, rgba(107,232,43,1) 13%, rgba(0,212,255,1) 100%);
+    padding: 20px;
+    width: 80%;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  
+    // Style pour le header
+    .header {
+      font-size: 1.2em;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+  
+    // Style pour le body
+    .body {
+      margin-bottom: 15px;
+  
+      p {
+        margin: 0; // Supprime la marge par défaut du paragraphe
+      }
+    }
+  
+    // Style pour le footer
+    .footer {
+      font-size: 0.9em;
+      color: #555;
+    }
+  }

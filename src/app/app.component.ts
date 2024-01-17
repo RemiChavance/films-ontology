@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import{ Component, OnInit } from '@angular/core';
 import films from '../assets/films.json'
 import ontologyStart from '../assets/ontology.json'
 import { Concept } from './models/concept.model';
@@ -13,6 +13,9 @@ export class AppComponent implements OnInit {
   title = 'films-ontology';
 
   ontology: Concept = ontologyStart;
+  allFilms: Film[] = [];
+  filmsList: Film[] = films;
+  inputValue!: string;
 
   findSubByName(mainConcept: Concept, subConceptName: string) {
     return mainConcept.subs.find((x: Concept) => x.name === subConceptName);
@@ -28,16 +31,28 @@ export class AppComponent implements OnInit {
       return film.actor1;
     } else if (thing === 'actor2') {
       return film.actor2;
-    }
-    else if (thing === 'releaseDecade') {
+    } else if (thing === 'releaseDecade') {
       return film.releaseDecade!;
     } else {
       return film.length;
     }
   }
 
+  onSubmit() {
+    console.log(this.inputValue);
+  }
+
+  loadFilmsList() {
+    films.forEach((film: Film) => this.filmsList.push(film));
+  }
+
+  filterFilmsList() {
+    return this.filmsList;
+  }
+
   ngOnInit(): void {
-    films.forEach((film: Film) => {
+    // Prepare data ...
+    this.filmsList.forEach((film: Film) => {
       film.releaseDecade = film.releaseDate.toString().slice(0, -1) + '0';      
       film.genre = film.genre.split('/')[0];
 
@@ -60,10 +75,15 @@ export class AppComponent implements OnInit {
       }
     });
 
+    this.allFilms = this.filmsList;
+
     let mainConcepts = ['realisator', 'genre', 'actor1', 'actor2', 'releaseDecade', 'length'];
-    let film = films[0];
+
+    // iterate on each concept for each film.
     mainConcepts.forEach((mainConcept: string) => {
-      films.forEach((film: Film) => {
+
+      this.filmsList.forEach((film: Film) => {
+        // this.loadFilmsList();
         if (this.getDataOfFilm(film, mainConcept)) {
           if (!this.findSubByName(this.findSubByName(this.ontology, mainConcept)!, this.getDataOfFilm(film, mainConcept))) {
             
@@ -77,12 +97,38 @@ export class AppComponent implements OnInit {
               'subs': []
             })
           }
-          this.findSubByName(this.findSubByName(this.ontology, mainConcept)!, this.getDataOfFilm(film, mainConcept).toString())!.films.push(film.title);
+
+          this.findSubByName(this.findSubByName(this.ontology, mainConcept)!, this.getDataOfFilm(film, mainConcept))!.films.push(film.title);
         }
       });
     });
 
-
     console.log(this.ontology);
+  }
+
+  onResetFilter() {
+    this.filmsList = [...this.allFilms];
+  }
+
+  onGenreClicked(filter: { filterBy: string, value: string }) {
+    this.filmsList = [];
+    this.allFilms.forEach(film => {
+
+      switch (filter.filterBy) {
+        case 'genre':
+          if (film.genre === filter.value) this.filmsList.push(film); break;
+        case 'actor1':
+          if (film.actor1 === filter.value || film.actor2 === filter.value) this.filmsList.push(film); break;
+        case 'actor2':
+          if (film.actor1 === filter.value || film.actor2 === filter.value) this.filmsList.push(film); break;
+        case 'releaseDecade':
+          if (film.releaseDecade === filter.value) this.filmsList.push(film); break;
+        case 'length':
+          if (film.length === filter.value) this.filmsList.push(film); break;
+        case 'releaseDate':
+            if (film.releaseDate === +filter.value) this.filmsList.push(film); break;
+      }
+
+    });
   }
 }
