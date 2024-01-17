@@ -1,0 +1,43 @@
+{
+    "name": "film",
+    "level": 0,
+    "films": [],
+    "subs": [
+        {
+            "name": "genre",
+            "level": 1,
+            "films": [],
+            "subs": []
+        },
+        {
+            "name": "realisator",
+            "level": 1,
+            "films": [],
+            "subs": []
+        },
+        {
+            "name": "actor1",
+            "level": 1,
+            "films": [],
+            "subs": []
+        },
+        {
+            "name": "actor2",
+            "level": 1,
+            "films": [],
+            "subs": []
+        },
+        {
+            "name": "releaseDecade",
+            "level": 1,
+            "films": [],
+            "subs": []
+        },
+        {
+            "name": "length",
+            "level": 1,
+            "films": [],
+            "subs": []
+        }
+    ]
+}

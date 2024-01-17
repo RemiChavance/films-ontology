@@ -1,0 +1,5996 @@
+[
+  {
+    "title": "1001 Pattes",
+    "realisator": "John Lasseter",
+    "genre": "Film d'animation Pixar",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1999,
+    "length": "1h35"
+  },
+  {
+    "title": "12 hommes en colère",
+    "realisator": "Sidney Lumet",
+    "genre": "Huit clos",
+    "actor1": "Henry Fonda",
+    "actor2": "",
+    "releaseDate": 1957,
+    "length": "1h35"
+  },
+  {
+    "title": "12 years a slave",
+    "realisator": "Steve McQueen II",
+    "genre": "Historique",
+    "actor1": "Chiwetel Ejiofor",
+    "actor2": "Michael Fassbender",
+    "releaseDate": 2014,
+    "length": "2h13"
+  },
+  {
+    "title": "2001 l'Odyssée de l'Espace",
+    "realisator": "Stanley Kubrick",
+    "genre": "Curiosité cinématographique",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1968,
+    "length": "2h50"
+  },
+  {
+    "title": "2046",
+    "realisator": "Wong Kar-Wai",
+    "genre": "Romance",
+    "actor1": "Tony Leung Chiu Wai",
+    "actor2": "Gong Li",
+    "releaseDate": 2004,
+    "length": "2h09"
+  },
+  {
+    "title": "21 grammes",
+    "realisator": "Alejandro González Iñárritu",
+    "genre": "Drame",
+    "actor1": "Sean Penn",
+    "actor2": "Naomi Watts",
+    "releaseDate": 2003,
+    "length": "2h04"
+  },
+  {
+    "title": "28 jours plus tard",
+    "realisator": "Danny Boyle",
+    "genre": "Horreur",
+    "actor1": "Cillian Murphy",
+    "actor2": "",
+    "releaseDate": 2002,
+    "length": "1h53"
+  },
+  {
+    "title": "3h10 pour Yuma",
+    "realisator": "James Mangold",
+    "genre": "Western",
+    "actor1": "Christian Bale",
+    "actor2": "Russel Crowe",
+    "releaseDate": 2008,
+    "length": "2h02"
+  },
+  {
+    "title": "5 cm par seconde",
+    "realisator": "Makoto Shinkai",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2007,
+    "length": "1h03"
+  },
+  {
+    "title": "500 jours ensemble",
+    "realisator": "Marc Webb",
+    "genre": "Comédie",
+    "actor1": "Joseph Gordon-Levitt",
+    "actor2": "Zooey Deschanel",
+    "releaseDate": 2009,
+    "length": "1h35"
+  },
+  {
+    "title": "A bittersweet life",
+    "realisator": "Jee-woon Kim",
+    "genre": "Thriller",
+    "actor1": "Byung-Hun Lee",
+    "actor2": "",
+    "releaseDate": 2006,
+    "length": "2h"
+  },
+  {
+    "title": "A bord du Darjeeling Limited",
+    "realisator": "Wes Anderson",
+    "genre": "Comédie",
+    "actor1": "Owen Wilson",
+    "actor2": "Adrien Brody",
+    "releaseDate": 2007,
+    "length": "1h31"
+  },
+  {
+    "title": "A dangerous method",
+    "realisator": "David Cronenberg",
+    "genre": "Biopic",
+    "actor1": "Keira Knightley",
+    "actor2": "Michael Fassbender",
+    "releaseDate": 2011,
+    "length": "1h39"
+  },
+  {
+    "title": "A history of violence",
+    "realisator": "David Cronenberg",
+    "genre": "Thriller",
+    "actor1": "Viggo Mortensen",
+    "actor2": "Maria Bello",
+    "releaseDate": 2005,
+    "length": "1h36"
+  },
+  {
+    "title": "A.I. Intelligence artificielle",
+    "realisator": "Steven Spielberg",
+    "genre": "Science-fiction",
+    "actor1": "Haley Joel Osment",
+    "actor2": "Jude Law",
+    "releaseDate": 2001,
+    "length": "2h26"
+  },
+  {
+    "title": "A la rencontre de Forrester",
+    "realisator": "Gus Van Sant",
+    "genre": "Drame",
+    "actor1": "Sean Connery",
+    "actor2": "Rob Brown",
+    "releaseDate": 2000,
+    "length": "2h16"
+  },
+  {
+    "title": "Aladdin",
+    "realisator": "John Musker",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1992,
+    "length": "1h30"
+  },
+  {
+    "title": "Alice au pays des merveilles",
+    "realisator": "Hamilton Luske",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1951,
+    "length": "1h15"
+  },
+  {
+    "title": "Alien",
+    "realisator": "Ridley Scott",
+    "genre": "Science-fiction",
+    "actor1": "Sigourney Weaver",
+    "actor2": "",
+    "releaseDate": 1979,
+    "length": "1h57"
+  },
+  {
+    "title": "Amadeus",
+    "realisator": "Milos Forman",
+    "genre": "Biopic",
+    "actor1": "Tom Hulce",
+    "actor2": "",
+    "releaseDate": 1984,
+    "length": "2h40"
+  },
+  {
+    "title": "American Beauty",
+    "realisator": "Sam Mendes",
+    "genre": "Drame",
+    "actor1": "Kevin Spacey",
+    "actor2": "Mena Suvari",
+    "releaseDate": 1999,
+    "length": "2h02"
+  },
+  {
+    "title": "American Bluff",
+    "realisator": "David O. Russell",
+    "genre": "Comédie dramatique",
+    "actor1": "Christian Bale",
+    "actor2": "Amy Adams",
+    "releaseDate": 2013,
+    "length": "2h18"
+  },
+  {
+    "title": "American Gangster",
+    "realisator": "Ridley Scott",
+    "genre": "Policier",
+    "actor1": "Denzel Washington",
+    "actor2": "Russel Crowe",
+    "releaseDate": 2007,
+    "length": "2h37"
+  },
+  {
+    "title": "American History X",
+    "realisator": "Tony Kaye",
+    "genre": "Drame",
+    "actor1": "Edward Norton",
+    "actor2": "Edward Furlong",
+    "releaseDate": 1999,
+    "length": "1h59"
+  },
+  {
+    "title": "American Sniper",
+    "realisator": "Clint Eastwood",
+    "genre": "Guerre",
+    "actor1": "Bradley Cooper",
+    "actor2": "Sienne Miller",
+    "releaseDate": 2015,
+    "length": "2h13"
+  },
+  {
+    "title": "Amour",
+    "realisator": "Michael Haneke",
+    "genre": "Drame",
+    "actor1": "Jean-Louis Trintignant",
+    "actor2": "",
+    "releaseDate": 2012,
+    "length": "2h07"
+  },
+  {
+    "title": "Amours chiennes",
+    "realisator": "Alejandro González Iñárritu",
+    "genre": "Drame",
+    "actor1": "Gael García Bernal",
+    "actor2": "",
+    "releaseDate": 2000,
+    "length": "2h33"
+  },
+  {
+    "title": "Aniki",
+    "realisator": "Takeshi Kitano",
+    "genre": "Policier",
+    "actor1": "Takeshi Kitano",
+    "actor2": "Omar Epps",
+    "releaseDate": 2000,
+    "length": "1h54"
+  },
+  {
+    "title": "Animal Kingdom",
+    "realisator": "David Michôd",
+    "genre": "Drame",
+    "actor1": "James Frecheville",
+    "actor2": "Guy Pearce",
+    "releaseDate": 2010,
+    "length": "1h53"
+  },
+  {
+    "title": "Anna Karenine",
+    "realisator": "Joe Wright",
+    "genre": "Drame",
+    "actor1": "Keira Knightley",
+    "actor2": "Jude Law",
+    "releaseDate": 2012,
+    "length": "2h11"
+  },
+  {
+    "title": "Anthony Zimmer",
+    "realisator": "Jérôme Salle",
+    "genre": "Thriller",
+    "actor1": "Yvan Attal",
+    "actor2": "Sophie Marceau",
+    "releaseDate": 2005,
+    "length": "1h30"
+  },
+  {
+    "title": "Appaloosa",
+    "realisator": "Ed Harris",
+    "genre": "Western",
+    "actor1": "Ed Harris",
+    "actor2": "Viggo Mortensen",
+    "releaseDate": 2008,
+    "length": "1h55"
+  },
+  {
+    "title": "Apocalypse Now",
+    "realisator": "Francis Ford Coppola",
+    "genre": "Guerre",
+    "actor1": "Martin Sheen",
+    "actor2": "Marlon Brando",
+    "releaseDate": 1979,
+    "length": "2h33"
+  },
+  {
+    "title": "Apocalypto",
+    "realisator": "Mel Gibson",
+    "genre": "Aventure",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2007,
+    "length": "2h19"
+  },
+  {
+    "title": "Argo",
+    "realisator": "Ben Affleck",
+    "genre": "Thriller",
+    "actor1": "Ben Affleck",
+    "actor2": "Bryan Cranston",
+    "releaseDate": 2012,
+    "length": "2h"
+  },
+  {
+    "title": "Arizona Dream",
+    "realisator": "Emir Kusturica",
+    "genre": "Comédie dramatique",
+    "actor1": "Johnny Depp",
+    "actor2": "Jerry Lewis",
+    "releaseDate": 1993,
+    "length": "2h22"
+  },
+  {
+    "title": "Arrête-moi si tu peux",
+    "realisator": "Steven Spielberg",
+    "genre": "Comédie",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Tom Hanks",
+    "releaseDate": 2002,
+    "length": "2h21"
+  },
+  {
+    "title": "Arrietty le petit monde des chapardeurs",
+    "realisator": "Hiromasa Yonebayashi",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2010,
+    "length": "1h34"
+  },
+  {
+    "title": "A single man",
+    "realisator": "Tom Ford",
+    "genre": "Drame",
+    "actor1": "Colin Firth",
+    "actor2": "Julianne Moore",
+    "releaseDate": 2009,
+    "length": "1h39"
+  },
+  {
+    "title": "Astérix et Obélix : Mission Cléopâtre",
+    "realisator": "Alain Chabat",
+    "genre": "Comédie",
+    "actor1": "Christian Clavier",
+    "actor2": "Gérard Depardieu",
+    "releaseDate": 2002,
+    "length": "1h47"
+  },
+  {
+    "title": "Atlantide, l'empire perdu",
+    "realisator": "Kirk Wise",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2001,
+    "length": "1h35"
+  },
+  {
+    "title": "A tombeau ouvert",
+    "realisator": "Martin Scorsese",
+    "genre": "Drame",
+    "actor1": "Nicolas Cage",
+    "actor2": "Patricia Arquette",
+    "releaseDate": 1996,
+    "length": "2h01"
+  },
+  {
+    "title": "Au nom du père",
+    "realisator": "Jim Sheridan",
+    "genre": "Drame",
+    "actor1": "Daniel Day-Lewis",
+    "actor2": "Emma Thompson",
+    "releaseDate": 1993,
+    "length": "2h13"
+  },
+  {
+    "title": "Avengers",
+    "realisator": "Joss Whedon",
+    "genre": "Super Héros",
+    "actor1": "Robert Downey Jr.",
+    "actor2": "Chris Evans",
+    "releaseDate": 2012,
+    "length": "2h23"
+  },
+  {
+    "title": "Aviator",
+    "realisator": "Martin Scorsese",
+    "genre": "Biopic",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Cate Blanchett",
+    "releaseDate": 2004,
+    "length": "2h50"
+  },
+  {
+    "title": "Babel",
+    "realisator": "Alejandro González Iñárritu",
+    "genre": "Drame",
+    "actor1": "Brad Pitt",
+    "actor2": "Cate Blanchett",
+    "releaseDate": 2006,
+    "length": "2h23"
+  },
+  {
+    "title": "Bagdad Café",
+    "realisator": "Percy Adlon",
+    "genre": "Comédie dramatique",
+    "actor1": "Marianne Sägebrecht",
+    "actor2": "CCH Pounder",
+    "releaseDate": 1987,
+    "length": "1h35"
+  },
+  {
+    "title": "Bambi",
+    "realisator": "David Hand",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1942,
+    "length": "1h10"
+  },
+  {
+    "title": "Barry Lyndon",
+    "realisator": "Stanley Kubrick",
+    "genre": "Historique",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1976,
+    "length": "3h04"
+  },
+  {
+    "title": "Barton Fink",
+    "realisator": "Joel Coen & Ethan Coen",
+    "genre": "Comédie dramatique",
+    "actor1": "John Turturro",
+    "actor2": "John Goodman",
+    "releaseDate": 1991,
+    "length": "1h56"
+  },
+  {
+    "title": "Basile, détective privé",
+    "realisator": "Ron Clements",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1986,
+    "length": "1h14"
+  },
+  {
+    "title": "Basketball Diaries",
+    "realisator": "Scott Kalvert",
+    "genre": "Biopic",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Mark Wahlberg",
+    "releaseDate": 1998,
+    "length": "1h42"
+  },
+  {
+    "title": "Batman 1, 2 & 3",
+    "realisator": "Christopher Nolan",
+    "genre": "Super Héros",
+    "actor1": "Christian Bale",
+    "actor2": "Michael Caine",
+    "releaseDate": 2008,
+    "length": "2h"
+  },
+  {
+    "title": "Bienvenue à Gattaca",
+    "realisator": "Andrew Niccol",
+    "genre": "Science-fiction",
+    "actor1": "Ethan Hawke",
+    "actor2": "Uma Thurman",
+    "releaseDate": 1997,
+    "length": "1h46"
+  },
+  {
+    "title": "Big Fish",
+    "realisator": "Tim Burton",
+    "genre": "Fantastique",
+    "actor1": "Ewan McGregor",
+    "actor2": "Alison Lohman",
+    "releaseDate": 2004,
+    "length": "2h05"
+  },
+  {
+    "title": "Birdman",
+    "realisator": "Alejandro González Iñárritu",
+    "genre": "Drame",
+    "actor1": "Michael Keaton",
+    "actor2": "Edward Norton",
+    "releaseDate": 2015,
+    "length": "1h59"
+  },
+  {
+    "title": "Biutiful",
+    "realisator": "Alejandro González Iñárritu",
+    "genre": "Drame",
+    "actor1": "Javier Bardem",
+    "actor2": "",
+    "releaseDate": 2010,
+    "length": "2h28"
+  },
+  {
+    "title": "Black Book",
+    "realisator": "Paul Verhoeven",
+    "genre": "Drame",
+    "actor1": "Carice Van Houten",
+    "actor2": "",
+    "releaseDate": 2006,
+    "length": "2h25"
+  },
+  {
+    "title": "Black Swan",
+    "realisator": "Darren Aronofsky",
+    "genre": "Drame",
+    "actor1": "Natalie Portman",
+    "actor2": "Mila Kunis",
+    "releaseDate": 2011,
+    "length": "1h48"
+  },
+  {
+    "title": "Blade Runner",
+    "realisator": "Ridley Scott",
+    "genre": "Science-fiction",
+    "actor1": "Harrison Ford",
+    "actor2": "",
+    "releaseDate": 1982,
+    "length": "1h57"
+  },
+  {
+    "title": "Blanche-Neige et les sept nains",
+    "realisator": "David Hand",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1938,
+    "length": "1h23"
+  },
+  {
+    "title": "Blood Diamond",
+    "realisator": "Edward Zwick",
+    "genre": "Action",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Jennifer Connelly",
+    "releaseDate": 2006,
+    "length": "2h23"
+  },
+  {
+    "title": "Blue Velvet",
+    "realisator": "David Lynch",
+    "genre": "Policier",
+    "actor1": "Isabella Rossellini",
+    "actor2": "Kyle MacLachlan",
+    "releaseDate": 1986,
+    "length": "2h"
+  },
+  {
+    "title": "Bons baisers de Bruges",
+    "realisator": "Martin McDonagh",
+    "genre": "Policier",
+    "actor1": "Colin Farrell",
+    "actor2": "Ralph Fiennes",
+    "releaseDate": 2008,
+    "length": "1h47"
+  },
+  {
+    "title": "Boyhood",
+    "realisator": "Richard Linklater",
+    "genre": "Drame",
+    "actor1": "Ellar Coltrane",
+    "actor2": "Ethan Hawke",
+    "releaseDate": 2014,
+    "length": "2h25"
+  },
+  {
+    "title": "Braveheart",
+    "realisator": "Mel Gibson",
+    "genre": "Historique",
+    "actor1": "Mel Gibson",
+    "actor2": "Sophie Marceau",
+    "releaseDate": 1995,
+    "length": "2h57"
+  },
+  {
+    "title": "Braquage à l'italienne",
+    "realisator": "F. Gary Gray",
+    "genre": "Action",
+    "actor1": "Mark Wahlberg",
+    "actor2": "Charlize Theron",
+    "releaseDate": 2003,
+    "length": "1h51"
+  },
+  {
+    "title": "Brazil",
+    "realisator": "Terry Gilliam",
+    "genre": "Science-fiction",
+    "actor1": "Jonathan Pryce",
+    "actor2": "Robert De Niro",
+    "releaseDate": 1985,
+    "length": "2h12"
+  },
+  {
+    "title": "Breaking the Waves",
+    "realisator": "Lars Von Trier",
+    "genre": "Drame",
+    "actor1": "Emily Watson",
+    "actor2": "Stellan Skarsgård",
+    "releaseDate": 1996,
+    "length": "2h39"
+  },
+  {
+    "title": "Broken Flowers",
+    "realisator": "Jim Jarmusch",
+    "genre": "Drame",
+    "actor1": "Bill Murray",
+    "actor2": "Sharon Stone",
+    "releaseDate": 2005,
+    "length": "1h46"
+  },
+  {
+    "title": "Brothers",
+    "realisator": "Jim Sheridan",
+    "genre": "Drame",
+    "actor1": "Jake Gyllenhaal",
+    "actor2": "Natalie Portman",
+    "releaseDate": 2009,
+    "length": "1h45"
+  },
+  {
+    "title": "Capitaine Philipps",
+    "realisator": "Paul Greengrass",
+    "genre": "Drame",
+    "actor1": "Tom Hanks",
+    "actor2": "Barkhad Abdi",
+    "releaseDate": 2013,
+    "length": "2h14"
+  },
+  {
+    "title": "Casablanca",
+    "realisator": "Michael Curtiz",
+    "genre": "Drame",
+    "actor1": "Humphrey Bogart",
+    "actor2": "Ingrid Bergman",
+    "releaseDate": 1947,
+    "length": "1h42"
+  },
+  {
+    "title": "Cashback",
+    "realisator": "Sean Ellis",
+    "genre": "Romance",
+    "actor1": "Sean Biggerstaff",
+    "actor2": "Emilia Fox",
+    "releaseDate": 2007,
+    "length": "1h42"
+  },
+  {
+    "title": "Casino",
+    "realisator": "Martin Scorsese",
+    "genre": "Drame",
+    "actor1": "Robert De Niro",
+    "actor2": "Sharon Stone",
+    "releaseDate": 1996,
+    "length": "2h58"
+  },
+  {
+    "title": "Cendrillon",
+    "realisator": "Wilfred Jackson",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1950,
+    "length": "1h14"
+  },
+  {
+    "title": "Chantons sous la pluie",
+    "realisator": "Stanley Donen / Gene Kelly",
+    "genre": "Comédie Musicale",
+    "actor1": "Gene Kelly",
+    "actor2": "Jean Hagen",
+    "releaseDate": 1952,
+    "length": "1h43"
+  },
+  {
+    "title": "Chicago",
+    "realisator": "Rob Marshall",
+    "genre": "Comédie Musicale",
+    "actor1": "Renée Zellweger",
+    "actor2": "Catherine Zeta-Jones",
+    "releaseDate": 2002,
+    "length": "1h53"
+  },
+  {
+    "title": "Chinatown",
+    "realisator": "Roman Polanski",
+    "genre": "Policier",
+    "actor1": "Jack Nicholson",
+    "actor2": "",
+    "releaseDate": 1974,
+    "length": "2h10"
+  },
+  {
+    "title": "Citizen Kane",
+    "realisator": "Orson Welles",
+    "genre": "Drame",
+    "actor1": "Orson Welles",
+    "actor2": "",
+    "releaseDate": 1941,
+    "length": "1h59"
+  },
+  {
+    "title": "Cloud Atlas",
+    "realisator": "Lana & Andy Wachowski",
+    "genre": "Fantastique",
+    "actor1": "Tom Hanks",
+    "actor2": "Halle Berry",
+    "releaseDate": 2013,
+    "length": "2h52"
+  },
+  {
+    "title": "Coffee and cigarettes",
+    "realisator": "Jim Jarmusch",
+    "genre": "Comédie dramatique",
+    "actor1": "Roberto Benigni",
+    "actor2": "Bill Murray",
+    "releaseDate": 2004,
+    "length": "1h35"
+  },
+  {
+    "title": "Collateral",
+    "realisator": "Michael Mann",
+    "genre": "Thriller",
+    "actor1": "Tom Cruise",
+    "actor2": "Jamie Foxx",
+    "releaseDate": 2004,
+    "length": "2h"
+  },
+  {
+    "title": "Confessions d'un homme dangereux",
+    "realisator": "George Clooney",
+    "genre": "Comédie",
+    "actor1": "Sam Rockwell",
+    "actor2": "Maggie Gyllenhaal",
+    "releaseDate": 2003,
+    "length": "1h53"
+  },
+  {
+    "title": "Conjuring : Les dossiers Warren",
+    "realisator": "James Wan",
+    "genre": "Horreur",
+    "actor1": "Patrick Wilson",
+    "actor2": "Vera Farmiga",
+    "releaseDate": 2013,
+    "length": "1h52"
+  },
+  {
+    "title": "Coraline",
+    "realisator": "Henry Selick",
+    "genre": "Film d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2009,
+    "length": "1h40"
+  },
+  {
+    "title": "Coup de foudre à Notting Hill",
+    "realisator": "Roger Michell",
+    "genre": "Comédie",
+    "actor1": "Hugh Grant",
+    "actor2": "Julia Roberts",
+    "releaseDate": 1999,
+    "length": "2h04"
+  },
+  {
+    "title": "C.R.A.Z.Y.",
+    "realisator": "Jean-Marc Vallée",
+    "genre": "Drame",
+    "actor1": "Marc-André Grondin",
+    "actor2": "",
+    "releaseDate": 2005,
+    "length": "2h09"
+  },
+  {
+    "title": "Crazy, Stupid, Love",
+    "realisator": "Glenn Ficarra & John Requa",
+    "genre": "Comédie",
+    "actor1": "Steve Carell",
+    "actor2": "Ryan Gosling",
+    "releaseDate": 2011,
+    "length": "1h58"
+  },
+  {
+    "title": "Dallas Buyers Club",
+    "realisator": "Jean-Marc Vallée",
+    "genre": "Drame",
+    "actor1": "Matthew McConaughey",
+    "actor2": "Jared Leto",
+    "releaseDate": 2013,
+    "length": "1h57"
+  },
+  {
+    "title": "Dancer in the Dark",
+    "realisator": "Lars Von Trier",
+    "genre": "Drame",
+    "actor1": "Björk",
+    "actor2": "Catherine Deneuve",
+    "releaseDate": 2000,
+    "length": "2h20"
+  },
+  {
+    "title": "Dans ses yeux",
+    "realisator": "Juan José Campanella",
+    "genre": "Policier",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2009,
+    "length": "2h09"
+  },
+  {
+    "title": "Danse avec les loups",
+    "realisator": "Kevin Costner",
+    "genre": "Western",
+    "actor1": "Kevin Costner",
+    "actor2": "Mary McDonnell",
+    "releaseDate": 1991,
+    "length": "3h01"
+  },
+  {
+    "title": "Dark City",
+    "realisator": "Alex Proyas",
+    "genre": "Fantastique",
+    "actor1": "Rufus Sewell",
+    "actor2": "Jennifer Connelly",
+    "releaseDate": 1998,
+    "length": "1h40"
+  },
+  {
+    "title": "Dead Man",
+    "realisator": "Jim Jarmusch",
+    "genre": "Western",
+    "actor1": "Johnny Depp",
+    "actor2": "",
+    "releaseDate": 1996,
+    "length": "2h01"
+  },
+  {
+    "title": "De l'ombre à la lumière",
+    "realisator": "Ron Howard",
+    "genre": "Biopic",
+    "actor1": "Russel Crowe",
+    "actor2": "Renée Zellweger",
+    "releaseDate": 2005,
+    "length": "2h24"
+  },
+  {
+    "title": "Démineurs",
+    "realisator": "Kathryn Bigelow",
+    "genre": "Guerre",
+    "actor1": "Jeremy Renner",
+    "actor2": "Anthony Mackie",
+    "releaseDate": 2010,
+    "length": "2h04"
+  },
+  {
+    "title": "Des hommes d'honneur",
+    "realisator": "Rob Reiner",
+    "genre": "Drame",
+    "actor1": "Tom Cruise",
+    "actor2": "Kevin Bacon",
+    "releaseDate": 1992,
+    "length": "2h18"
+  },
+  {
+    "title": "Die Hard 1, 2, 3 & 4",
+    "realisator": "John McTiernan",
+    "genre": "Action",
+    "actor1": "Bruce Willis",
+    "actor2": "",
+    "releaseDate": 1988,
+    "length": "2h"
+  },
+  {
+    "title": "Django Unchained",
+    "realisator": "Quentin Tarantino",
+    "genre": "Western",
+    "actor1": "Jamie Foxx",
+    "actor2": "Christoph Waltz",
+    "releaseDate": 2013,
+    "length": "2h45"
+  },
+  {
+    "title": "Donnie Brasco",
+    "realisator": "Mike Newell",
+    "genre": "Policier",
+    "actor1": "Al Pacino",
+    "actor2": "Johnny Depp",
+    "releaseDate": 1997,
+    "length": "2h07"
+  },
+  {
+    "title": "Donnie Darko",
+    "realisator": "Richard Kelly",
+    "genre": "Thriller",
+    "actor1": "Jake Gyllenhaal",
+    "actor2": "Jena Malone",
+    "releaseDate": 2001,
+    "length": "1h53"
+  },
+  {
+    "title": "Down by law",
+    "realisator": "Jim Jarmusch",
+    "genre": "Comédie",
+    "actor1": "Roberto Benigni",
+    "actor2": "Tom Waits",
+    "releaseDate": 1986,
+    "length": "1h47"
+  },
+  {
+    "title": "Dogville",
+    "realisator": "Lars Von Trier",
+    "genre": "Drame",
+    "actor1": "Nicole Kidman",
+    "actor2": "Paul Bettany",
+    "releaseDate": 2003,
+    "length": "2h58"
+  },
+  {
+    "title": "Dracula",
+    "realisator": "Francis Ford Coppola",
+    "genre": "Romance",
+    "actor1": "Keanu Reeves",
+    "actor2": "Gary Oldman",
+    "releaseDate": 1992,
+    "length": "2h08"
+  },
+  {
+    "title": "Dragons",
+    "realisator": "Chris Sanders & Dean DeBlois",
+    "genre": "Film d'animation DreamWorks",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2010,
+    "length": "1h38"
+  },
+  {
+    "title": "Drive",
+    "realisator": "Nicolas Winding Refn",
+    "genre": "Thriller",
+    "actor1": "Ryan Gosling",
+    "actor2": "Carey Mulligan",
+    "releaseDate": 2012,
+    "length": "1h40"
+  },
+  {
+    "title": "Ed Wood",
+    "realisator": "Tim Burton",
+    "genre": "Biopic",
+    "actor1": "Johnny Depp",
+    "actor2": "Bill Murray",
+    "releaseDate": 1994,
+    "length": "2h07"
+  },
+  {
+    "title": "Elephant",
+    "realisator": "Gus Van Sant",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2003,
+    "length": "1h21"
+  },
+  {
+    "title": "End of watch",
+    "realisator": "David Ayer",
+    "genre": "Policier",
+    "actor1": "Jake Gyllenhaal",
+    "actor2": "Michael Peña",
+    "releaseDate": 2012,
+    "length": "1h49"
+  },
+  {
+    "title": "Enter the Void",
+    "realisator": "Gaspar Noé",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2010,
+    "length": "2h22"
+  },
+  {
+    "title": "Entretien avec un vampire",
+    "realisator": "Neil Jordan",
+    "genre": "Fantastique",
+    "actor1": "Tom Cruise",
+    "actor2": "Brad Pitt",
+    "releaseDate": 1994,
+    "length": "2h03"
+  },
+  {
+    "title": "Equilibrium",
+    "realisator": "Kurt Wimmer",
+    "genre": "Action",
+    "actor1": "Christian Bale",
+    "actor2": "Taye Diggs",
+    "releaseDate": 2002,
+    "length": "1h47"
+  },
+  {
+    "title": "Et pour quelques dollars de plus",
+    "realisator": "Sergio Leone",
+    "genre": "Western",
+    "actor1": "Clint Eastwood",
+    "actor2": "Lee Van Cleef",
+    "releaseDate": 1966,
+    "length": "2h12"
+  },
+  {
+    "title": "Eternal sunshine of the spotless mind",
+    "realisator": "Michel Gondry",
+    "genre": "Science-fiction",
+    "actor1": "Jim Carrey",
+    "actor2": "Kate Winslet",
+    "releaseDate": 2004,
+    "length": "1h48"
+  },
+  {
+    "title": "Etreintes brisées",
+    "realisator": "Pedro Almodóvar",
+    "genre": "Drame",
+    "actor1": "Penélope Cruz",
+    "actor2": "Lluis Homar",
+    "releaseDate": 2009,
+    "length": "2h07"
+  },
+  {
+    "title": "Fantastic Mr Fox",
+    "realisator": "Wes Anderson",
+    "genre": "Film d'animation",
+    "actor1": "Mathieu Amalric",
+    "actor2": "Isabelle Huppert",
+    "releaseDate": 2009,
+    "length": "1h27"
+  },
+  {
+    "title": "Fight Club",
+    "realisator": "David Fincher",
+    "genre": "Thriller",
+    "actor1": "Edward Norton",
+    "actor2": "Brad Pitt",
+    "releaseDate": 1999,
+    "length": "2h19"
+  },
+  {
+    "title": "Fighter",
+    "realisator": "David O. Russell",
+    "genre": "Biopic",
+    "actor1": "Mark Wahlberg",
+    "actor2": "Christian Bale",
+    "releaseDate": 2010,
+    "length": "1h56"
+  },
+  {
+    "title": "Forrest Gump",
+    "realisator": "Robert Zemeckis",
+    "genre": "Comédie dramatique",
+    "actor1": "Tom Hanks",
+    "actor2": "",
+    "releaseDate": 1994,
+    "length": "2h22"
+  },
+  {
+    "title": "Foxcatcher",
+    "realisator": "Bennett Miller",
+    "genre": "Biopic",
+    "actor1": "Steve Carell",
+    "actor2": "Channing Tatum",
+    "releaseDate": 2014,
+    "length": "2h14"
+  },
+  {
+    "title": "Full Metal Jacket",
+    "realisator": "Stanley Kubrick",
+    "genre": "Guerre",
+    "actor1": "R. Lee Ermey",
+    "actor2": "Vincent D'Onofrio",
+    "releaseDate": 1987,
+    "length": "1h56"
+  },
+  {
+    "title": "Funny Games",
+    "realisator": "Michael Haneke",
+    "genre": "Malsain",
+    "actor1": "Ulrich Mühe",
+    "actor2": "",
+    "releaseDate": 1997,
+    "length": "1h48"
+  },
+  {
+    "title": "Fury",
+    "realisator": "David Ayer",
+    "genre": "Guerre",
+    "actor1": "Brad Pitt",
+    "actor2": "Shia LaBeouf",
+    "releaseDate": 2014,
+    "length": "2h14"
+  },
+  {
+    "title": "Gangs of New-York",
+    "realisator": "Martin Scorsese",
+    "genre": "Drame",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Daniel Day-Lewis",
+    "releaseDate": 2003,
+    "length": "2h47"
+  },
+  {
+    "title": "Garden State",
+    "realisator": "Zach Braff",
+    "genre": "Drame",
+    "actor1": "Zach Braff",
+    "actor2": "Natalie Portman",
+    "releaseDate": 2004,
+    "length": "1h42"
+  },
+  {
+    "title": "Gatsby le magnifique",
+    "realisator": "Baz Luhrmann",
+    "genre": "Drame",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Tobey Maguire",
+    "releaseDate": 2013,
+    "length": "2h23"
+  },
+  {
+    "title": "Ghost Dog",
+    "realisator": "Jim Jarmusch",
+    "genre": "Drame",
+    "actor1": "Forest Whitaker",
+    "actor2": "",
+    "releaseDate": 1999,
+    "length": "1h56"
+  },
+  {
+    "title": "Ghost in the Shell 1",
+    "realisator": "Mamoru Oshii",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1995,
+    "length": "1h23"
+  },
+  {
+    "title": "Gladiator",
+    "realisator": "Ridley Scott",
+    "genre": "Péplum",
+    "actor1": "Russel Crowe",
+    "actor2": "Joaquin Phoenix",
+    "releaseDate": 2000,
+    "length": "2h35"
+  },
+  {
+    "title": "Gold Diggers of 1933",
+    "realisator": "Mervyn LeRoy / Busby Berkeley",
+    "genre": "Comédie Musicale",
+    "actor1": "Dick Powell",
+    "actor2": "Ginger Rogers",
+    "releaseDate": 1933,
+    "length": "1h37"
+  },
+  {
+    "title": "Good Morning Vietnam",
+    "realisator": "Barry Levinson",
+    "genre": "Comédie",
+    "actor1": "Robin Williams",
+    "actor2": "Forest Whitaker",
+    "releaseDate": 1988,
+    "length": "2h01"
+  },
+  {
+    "title": "Gone Baby Gone",
+    "realisator": "Ben Affleck",
+    "genre": "Policier",
+    "actor1": "Casey Affleck",
+    "actor2": "Michelle Monaghan",
+    "releaseDate": 2007,
+    "length": "1h54"
+  },
+  {
+    "title": "Gone Girl",
+    "realisator": "David Fincher",
+    "genre": "Thriller",
+    "actor1": "Ben Affleck",
+    "actor2": "Rosamund Pike",
+    "releaseDate": 2014,
+    "length": "2h29"
+  },
+  {
+    "title": "Good Morning England",
+    "realisator": "Richard Curtis",
+    "genre": "Comédie",
+    "actor1": "Tom Sturridge",
+    "actor2": "Bill Nighy",
+    "releaseDate": 2009,
+    "length": "2h15"
+  },
+  {
+    "title": "Good Night, and Good Luck.",
+    "realisator": "George Clooney",
+    "genre": "Drame",
+    "actor1": "George Clooney",
+    "actor2": "Robert Downer Jr",
+    "releaseDate": 2005,
+    "length": "1h33"
+  },
+  {
+    "title": "Gran Torino",
+    "realisator": "Clint Eastwood",
+    "genre": "Drame",
+    "actor1": "Clint Eastwood",
+    "actor2": "Bee Vang",
+    "releaseDate": 2009,
+    "length": "1h56"
+  },
+  {
+    "title": "Gravity",
+    "realisator": "Alfonso Cuarón",
+    "genre": "Science-fiction",
+    "actor1": "George Clooney",
+    "actor2": "Sandra Bullock",
+    "releaseDate": 2013,
+    "length": "1h31"
+  },
+  {
+    "title": "Hair",
+    "realisator": "Milos Forman",
+    "genre": "Comédie Musicale",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1979,
+    "length": "2h01"
+  },
+  {
+    "title": "Harvey Milk",
+    "realisator": "Gus Van Sant",
+    "genre": "Drame",
+    "actor1": "Sean Penn",
+    "actor2": "Josh Brolin",
+    "releaseDate": 2009,
+    "length": "2h08"
+  },
+  {
+    "title": "Heat",
+    "realisator": "Michael Mann",
+    "genre": "Policier",
+    "actor1": "Al Pacino",
+    "actor2": "Robert De Niro",
+    "releaseDate": 1996,
+    "length": "2h50"
+  },
+  {
+    "title": "Her",
+    "realisator": "Spike Jonze",
+    "genre": "Drame",
+    "actor1": "Joaquin Phoenix",
+    "actor2": "Scarlett Johansson",
+    "releaseDate": 2013,
+    "length": "2h06"
+  },
+  {
+    "title": "Hercules",
+    "realisator": "John Musker",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1997,
+    "length": "1h33"
+  },
+  {
+    "title": "Hook",
+    "realisator": "Steven Spielberg",
+    "genre": "Aventure",
+    "actor1": "Robin Williams",
+    "actor2": "Dustin Hoffman",
+    "releaseDate": 1991,
+    "length": "2h22"
+  },
+  {
+    "title": "Hotel Rwanda",
+    "realisator": "Terry George",
+    "genre": "Drame",
+    "actor1": "Don Cheadle",
+    "actor2": "Joaquin Phoenix",
+    "releaseDate": 2004,
+    "length": "2h01"
+  },
+  {
+    "title": "Hot Fuzz",
+    "realisator": "Edgar Wright",
+    "genre": "Comédie",
+    "actor1": "Simon Pegg",
+    "actor2": "Martin Freeman",
+    "releaseDate": 2007,
+    "length": "2h01"
+  },
+  {
+    "title": "Hunger",
+    "realisator": "Steve McQueen II",
+    "genre": "Drame",
+    "actor1": "Michael Fassbender",
+    "actor2": "",
+    "releaseDate": 2008,
+    "length": "1h36"
+  },
+  {
+    "title": "Il était une fois dans l'ouest",
+    "realisator": "Sergio Leone",
+    "genre": "Western",
+    "actor1": "Charles Bronson",
+    "actor2": "Henry Fonda",
+    "releaseDate": 1969,
+    "length": "2h55"
+  },
+  {
+    "title": "Il était une fois dans le Queens",
+    "realisator": "Dito Montiel",
+    "genre": "Drame",
+    "actor1": "Robert Downey Jr.",
+    "actor2": "Rosario Dawson",
+    "releaseDate": 2010,
+    "length": "1h38"
+  },
+  {
+    "title": "Il était une fois en Amérique",
+    "realisator": "Sergio Leone",
+    "genre": "Policier",
+    "actor1": "Robert De Niro",
+    "actor2": "James Woods",
+    "releaseDate": 1984,
+    "length": "3h49"
+  },
+  {
+    "title": "I love Huckabees",
+    "realisator": "David O. Russell",
+    "genre": "Comédie",
+    "actor1": "Jason Schwartzman",
+    "actor2": "Mark Wahlberg",
+    "releaseDate": 2005,
+    "length": "1h47"
+  },
+  {
+    "title": "I love you Philipp Morris",
+    "realisator": "Glenn Ficarra & John Requa",
+    "genre": "Comédie",
+    "actor1": "Jim Carrey",
+    "actor2": "Ewan McGregor",
+    "releaseDate": 2010,
+    "length": "1h38"
+  },
+  {
+    "title": "Imitation Game",
+    "realisator": "Morten Tyldum",
+    "genre": "Biopic",
+    "actor1": "Benedict Cumberbatch",
+    "actor2": "Keira Knightley",
+    "releaseDate": 2014,
+    "length": "1h54"
+  },
+  {
+    "title": "Incassable",
+    "realisator": "M.Night Shyamalan",
+    "genre": "Fantastique",
+    "actor1": "Bruce Willis",
+    "actor2": "Samuel L.Jackson",
+    "releaseDate": 2000,
+    "length": "1h46"
+  },
+  {
+    "title": "Inception",
+    "realisator": "Christopher Nolan",
+    "genre": "Fantastique",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Ellen Page",
+    "releaseDate": 2010,
+    "length": "2h28"
+  },
+  {
+    "title": "Indiana Jones 1",
+    "realisator": "Steven Spielberg",
+    "genre": "Aventure",
+    "actor1": "Harrison Ford",
+    "actor2": "",
+    "releaseDate": 1981,
+    "length": "1h50"
+  },
+  {
+    "title": "Indian Runner",
+    "realisator": "Sean Penn",
+    "genre": "Drame",
+    "actor1": "David Morse",
+    "actor2": "Viggo Mortensen",
+    "releaseDate": 1991,
+    "length": "2h07"
+  },
+  {
+    "title": "Infernal Affairs",
+    "realisator": "Alan Mak & Wai Keung Lau",
+    "genre": "Policier",
+    "actor1": "Tony Leung Chiu Wai",
+    "actor2": "Andy Lau",
+    "releaseDate": 2002,
+    "length": "1h41"
+  },
+  {
+    "title": "Innocence",
+    "realisator": "Lucile Hadzihalilovic",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2005,
+    "length": "1h55"
+  },
+  {
+    "title": "Inside Man",
+    "realisator": "Spike Lee",
+    "genre": "Thriller",
+    "actor1": "Denzel Washington",
+    "actor2": "Clive Owen",
+    "releaseDate": 2006,
+    "length": "2h09"
+  },
+  {
+    "title": "Insomnia",
+    "realisator": "Christopher Nolan",
+    "genre": "Thriller",
+    "actor1": "Al Pacino",
+    "actor2": "Robin Williams",
+    "releaseDate": 2002,
+    "length": "1h58"
+  },
+  {
+    "title": "In the air",
+    "realisator": "Jason Reitman",
+    "genre": "Comédie",
+    "actor1": "George Clooney",
+    "actor2": "Anna Kendrick",
+    "releaseDate": 2009,
+    "length": "1h49"
+  },
+  {
+    "title": "In the loop",
+    "realisator": "Armando Iannucci",
+    "genre": "Comédie",
+    "actor1": "Peter Capaldi",
+    "actor2": "Tom Hollander",
+    "releaseDate": 2009,
+    "length": "1h46"
+  },
+  {
+    "title": "In the mood for love",
+    "realisator": "Wong Kar-Wai",
+    "genre": "Romance",
+    "actor1": "Tony Leung Chiu Wai",
+    "actor2": "",
+    "releaseDate": 2000,
+    "length": "1h38"
+  },
+  {
+    "title": "Into the Wild",
+    "realisator": "Sean Penn",
+    "genre": "Drame",
+    "actor1": "Emile Hirsch",
+    "actor2": "Kristen Stewart",
+    "releaseDate": 2008,
+    "length": "2h28"
+  },
+  {
+    "title": "Irréversible",
+    "realisator": "Gaspar Noé",
+    "genre": "Violent",
+    "actor1": "Vincent Cassel",
+    "actor2": "Albert Dupontel",
+    "releaseDate": 2002,
+    "length": "1h37"
+  },
+  {
+    "title": "I Robot",
+    "realisator": "Alex Proyas",
+    "genre": "Action",
+    "actor1": "Will Smith",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "1h55"
+  },
+  {
+    "title": "Iron Man",
+    "realisator": "Jon Favreau",
+    "genre": "Super Héros",
+    "actor1": "Robert Downey Jr.",
+    "actor2": "Gwyneth Paltrow",
+    "releaseDate": 2008,
+    "length": "2h06"
+  },
+  {
+    "title": "Interstellar",
+    "realisator": "Christopher Nolan",
+    "genre": "Science-fiction",
+    "actor1": "Matthew McConaughey",
+    "actor2": "Jessica Chastain",
+    "releaseDate": 2014,
+    "length": "2h49"
+  },
+  {
+    "title": "J'ai rencontré le diable",
+    "realisator": "Jee-woon Kim",
+    "genre": "Thriller",
+    "actor1": "Byung-Hun Lee",
+    "actor2": "Choi Min-sik",
+    "releaseDate": 2011,
+    "length": "2h21"
+  },
+  {
+    "title": "J.Edgar",
+    "realisator": "Clint Eastwood",
+    "genre": "Biopic",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Naomi Watts",
+    "releaseDate": 2012,
+    "length": "2h17"
+  },
+  {
+    "title": "Jarhead",
+    "realisator": "Sam Mendes",
+    "genre": "Drame",
+    "actor1": "Jake Gyllenhaal",
+    "actor2": "Jamie Foxx",
+    "releaseDate": 2005,
+    "length": "2h05"
+  },
+  {
+    "title": "Jeux d'enfants",
+    "realisator": "Yann Samuel",
+    "genre": "Romance",
+    "actor1": "Guillaume Canet",
+    "actor2": "Marion Cotillard",
+    "releaseDate": 2003,
+    "length": "1h33"
+  },
+  {
+    "title": "Jeux de pouvoir",
+    "realisator": "Kevin Macdonald",
+    "genre": "Thriller",
+    "actor1": "Russel Crowe",
+    "actor2": "Ben Affleck",
+    "releaseDate": 2009,
+    "length": "2h07"
+  },
+  {
+    "title": "Jurassic Park",
+    "realisator": "Steven Spielberg",
+    "genre": "Aventure",
+    "actor1": "Sam Neill",
+    "actor2": "Jeff Goldblum",
+    "releaseDate": 1993,
+    "length": "2h07"
+  },
+  {
+    "title": "Jusqu'en enfer",
+    "realisator": "Sam Raimi",
+    "genre": "Horreur",
+    "actor1": "Alison Lohman",
+    "actor2": "",
+    "releaseDate": 2009,
+    "length": "1h39"
+  },
+  {
+    "title": "Kaboom",
+    "realisator": "Gregg Araki",
+    "genre": "Comédie",
+    "actor1": "Thomas Dekker",
+    "actor2": "Juno Temple",
+    "releaseDate": 2010,
+    "length": "1h26"
+  },
+  {
+    "title": "Kick-Ass",
+    "realisator": "Matthew Vaughn",
+    "genre": "Super Héros",
+    "actor1": "Aaron Taylor-Johnson",
+    "actor2": "Chloë Grace Moretz",
+    "releaseDate": 2010,
+    "length": "1h57"
+  },
+  {
+    "title": "Kill Bill 1 & 2",
+    "realisator": "Quentin Tarantino",
+    "genre": "Action",
+    "actor1": "Uma Thurman",
+    "actor2": "",
+    "releaseDate": 2003,
+    "length": "1h51"
+  },
+  {
+    "title": "Kingsman : Services secrets",
+    "realisator": "Matthew Vaughn",
+    "genre": "Comédie",
+    "actor1": "Colin Firth",
+    "actor2": "Samuel L.Jackson",
+    "releaseDate": 2015,
+    "length": "2h09"
+  },
+  {
+    "title": "Kiss kiss, bang bang",
+    "realisator": "Shane Black",
+    "genre": "Comédie",
+    "actor1": "Robert Downey Jr.",
+    "actor2": "Michelle Monaghan",
+    "releaseDate": 2005,
+    "length": "1h43"
+  },
+  {
+    "title": "Kung Fu Panda",
+    "realisator": "Mark Osborne",
+    "genre": "Film d'animation DreamWorks",
+    "actor1": "Manu Payet",
+    "actor2": "Pierre Arditi",
+    "releaseDate": 2008,
+    "length": "1h32"
+  },
+  {
+    "title": "Kuzco, l'empereur mégalo",
+    "realisator": "Mark Dindal",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2001,
+    "length": "1h19"
+  },
+  {
+    "title": "L.A. Confidential",
+    "realisator": "Curtis Hanson",
+    "genre": "Policier",
+    "actor1": "Kevin Spacey",
+    "actor2": "Russel Crowe",
+    "releaseDate": 1997,
+    "length": "2h18"
+  },
+  {
+    "title": "L'âge de glace 1, 2 , 3",
+    "realisator": "Chris Wedge",
+    "genre": "Film d'animation",
+    "actor1": "Elie Semoun",
+    "actor2": "Gérard Lanvin",
+    "releaseDate": 2002,
+    "length": "1h21"
+  },
+  {
+    "title": "L'armée des 12 singes",
+    "realisator": "Terry Gilliam",
+    "genre": "Science-fiction",
+    "actor1": "Bruce Willis",
+    "actor2": "Brad Pitt",
+    "releaseDate": 1996,
+    "length": "2h09"
+  },
+  {
+    "title": "L'Assassinat de Jesse James par le lâche Robert Ford",
+    "realisator": "Andrew Dominik",
+    "genre": "Western",
+    "actor1": "Brad Pitt",
+    "actor2": "Casey Affleck",
+    "releaseDate": 2007,
+    "length": "2h40"
+  },
+  {
+    "title": "L'auberge espagnole",
+    "realisator": "Cédric Klapisch",
+    "genre": "Comédie",
+    "actor1": "Romain Duris",
+    "actor2": "Cécile de France",
+    "releaseDate": 2002,
+    "length": "2h02"
+  },
+  {
+    "title": "L'échange",
+    "realisator": "Clint Eastwood",
+    "genre": "Drame",
+    "actor1": "Angelina Jolie",
+    "actor2": "John Malkovich",
+    "releaseDate": 2008,
+    "length": "2h21"
+  },
+  {
+    "title": "L'échelle de Jacob",
+    "realisator": "Adrian Lyne",
+    "genre": "Fantastique",
+    "actor1": "Tim Robbins",
+    "actor2": "",
+    "releaseDate": 1991,
+    "length": "1h53"
+  },
+  {
+    "title": "L'échine du diable",
+    "realisator": "Guillermo Del Toro",
+    "genre": "Horreur",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2002,
+    "length": "1h47"
+  },
+  {
+    "title": "L'empire du soleil",
+    "realisator": "Steven Spielberg",
+    "genre": "Guerre",
+    "actor1": "Christian Bale",
+    "actor2": "John Malkovich",
+    "releaseDate": 1988,
+    "length": "2h34"
+  },
+  {
+    "title": "L'enfer du dimanche",
+    "realisator": "Oliver Stone",
+    "genre": "Comédie dramatique",
+    "actor1": "Al Pacino",
+    "actor2": "Cameron Diaz",
+    "releaseDate": 2000,
+    "length": "2h42"
+  },
+  {
+    "title": "L'étrange Noël de Mr Jack",
+    "realisator": "Henry Selick",
+    "genre": "Comédie Musicale d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1993,
+    "length": "1h16"
+  },
+  {
+    "title": "L'éveil",
+    "realisator": "Penny Marshall",
+    "genre": "Biopic",
+    "actor1": "Robin Williams",
+    "actor2": "Robert De Niro",
+    "releaseDate": 1991,
+    "length": "2h01"
+  },
+  {
+    "title": "L'illusionniste",
+    "realisator": "Neil Burger",
+    "genre": "Thriller",
+    "actor1": "Edward Norton",
+    "actor2": "Jessica Biel",
+    "releaseDate": 2007,
+    "length": "1h50"
+  },
+  {
+    "title": "L'impasse",
+    "realisator": "Brian de Palma",
+    "genre": "Policier",
+    "actor1": "Al Pacino",
+    "actor2": "Sean Penn",
+    "releaseDate": 1993,
+    "length": "2h24"
+  },
+  {
+    "title": "La belle et la bête",
+    "realisator": "Gary Trousdale",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1991,
+    "length": "1h24"
+  },
+  {
+    "title": "La belle et le clochard",
+    "realisator": "Hamilton Luske",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1955,
+    "length": "1h15"
+  },
+  {
+    "title": "La cité de Dieu",
+    "realisator": "Fernando Meirelles & Katia Lund",
+    "genre": "Drame",
+    "actor1": "Alexandre Rodrigues",
+    "actor2": "",
+    "releaseDate": 2002,
+    "length": "2h10"
+  },
+  {
+    "title": "La cité de la peur",
+    "realisator": "Alain Chabat",
+    "genre": "Comédie",
+    "actor1": "Alain Chabat",
+    "actor2": "Chantal Lauby",
+    "releaseDate": 1994,
+    "length": "1h33"
+  },
+  {
+    "title": "La Colline aux Coquelicots",
+    "realisator": "Goro Miyazaki",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2011,
+    "length": "1h32"
+  },
+  {
+    "title": "La famille Tenenbaum",
+    "realisator": "Wes Anderson",
+    "genre": "Comédie",
+    "actor1": "Ben Stiller",
+    "actor2": "Owen Wilson",
+    "releaseDate": 2001,
+    "length": "1h48"
+  },
+  {
+    "title": "La French",
+    "realisator": "Cédric Jimenez",
+    "genre": "Policier",
+    "actor1": "Jean Dujardin",
+    "actor2": "Gilles Lellouche",
+    "releaseDate": 2014,
+    "length": "2h15"
+  },
+  {
+    "title": "La haine",
+    "realisator": "Mathieu Kassovitz",
+    "genre": "Drame",
+    "actor1": "Vincent Cassel",
+    "actor2": "",
+    "releaseDate": 1995,
+    "length": "1h38"
+  },
+  {
+    "title": "Là-haut",
+    "realisator": "Pete Docter",
+    "genre": "Film d'animation Pixar",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2009,
+    "length": "1h36"
+  },
+  {
+    "title": "La jeune fille à la perle",
+    "realisator": "Peter Webber",
+    "genre": "Biopic",
+    "actor1": "Colin Firth",
+    "actor2": "Scarlett Johansson",
+    "releaseDate": 2004,
+    "length": "1h40"
+  },
+  {
+    "title": "La leçon de piano",
+    "realisator": "Jane Campion",
+    "genre": "Drame",
+    "actor1": "Holly Hunter",
+    "actor2": "Harvey Keitel",
+    "releaseDate": 1993,
+    "length": "2h01"
+  },
+  {
+    "title": "La ligne rouge",
+    "realisator": "Terrence Malick",
+    "genre": "Guerre",
+    "actor1": "Sean Penn",
+    "actor2": "John Cusack",
+    "releaseDate": 1999,
+    "length": "2h50"
+  },
+  {
+    "title": "La ligne verte",
+    "realisator": "Frank Darabont",
+    "genre": "Drame",
+    "actor1": "Tom Hanks",
+    "actor2": "Michael Clarke Duncan",
+    "releaseDate": 2000,
+    "length": "3h09"
+  },
+  {
+    "title": "La liste de Schindler",
+    "realisator": "Steven Spielberg",
+    "genre": "Historique",
+    "actor1": "Liam Neeson",
+    "actor2": "Ben Kingsley",
+    "releaseDate": 1993,
+    "length": "3h15"
+  },
+  {
+    "title": "La maison des 1000 morts / Devil's Rejects",
+    "realisator": "Rob Zombie",
+    "genre": "Horreur",
+    "actor1": "Sid Haig",
+    "actor2": "Bill Moseley",
+    "releaseDate": 2006,
+    "length": "1h40"
+  },
+  {
+    "title": "La mauvaise éducation",
+    "realisator": "Pedro Almodóvar",
+    "genre": "Drame",
+    "actor1": "Gael García Bernal",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "1h50"
+  },
+  {
+    "title": "La mémoire dans la peau 1, 2, & 3",
+    "realisator": "Doug Liman",
+    "genre": "Action",
+    "actor1": "Matt Damon",
+    "actor2": "",
+    "releaseDate": 2002,
+    "length": "1h59"
+  },
+  {
+    "title": "La nuit nous appartient",
+    "realisator": "James Gray",
+    "genre": "Policier",
+    "actor1": "Joaquin Phoenix",
+    "actor2": "Mark Wahlberg",
+    "releaseDate": 2007,
+    "length": "1h57"
+  },
+  {
+    "title": "La petite sirène",
+    "realisator": "John Musker",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1990,
+    "length": "1h23"
+  },
+  {
+    "title": "La pianiste",
+    "realisator": "Michael Haneke",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2002,
+    "length": "2h10"
+  },
+  {
+    "title": "La piel que habito",
+    "realisator": "Pedro Almodóvar",
+    "genre": "Drame",
+    "actor1": "Antonio Banderas",
+    "actor2": "",
+    "releaseDate": 2011,
+    "length": "2h"
+  },
+  {
+    "title": "La reine des neiges",
+    "realisator": "Chris Buck",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2013,
+    "length": "1h42"
+  },
+  {
+    "title": "La route",
+    "realisator": "John Hillcoat",
+    "genre": "Drame",
+    "actor1": "Viggo Mortensen",
+    "actor2": "Kodi Smit-McPhee",
+    "releaseDate": 2009,
+    "length": "1h51"
+  },
+  {
+    "title": "La science des rêves",
+    "realisator": "Michel Gondry",
+    "genre": "Fantastique",
+    "actor1": "Gael García Bernal",
+    "actor2": "Charlotte Gainsbourg",
+    "releaseDate": 2006,
+    "length": "1h45"
+  },
+  {
+    "title": "La Tour au-delà des nuages",
+    "realisator": "Makoto Shinkai",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "1h31"
+  },
+  {
+    "title": "La traversée du temps",
+    "realisator": "Mamoru Hosoda",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2006,
+    "length": "1h38"
+  },
+  {
+    "title": "La vague",
+    "realisator": "Dennis Gansel",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2008,
+    "length": "1h47"
+  },
+  {
+    "title": "La vérité nue",
+    "realisator": "Atom Egoyan",
+    "genre": "Thriller",
+    "actor1": "Kevin Bacon",
+    "actor2": "Colin Firth",
+    "releaseDate": 2005,
+    "length": "1h47"
+  },
+  {
+    "title": "La vie aquatique",
+    "realisator": "Wes Anderson",
+    "genre": "Comédie",
+    "actor1": "Owen Wilson",
+    "actor2": "Bill Murray",
+    "releaseDate": 2003,
+    "length": "1h58"
+  },
+  {
+    "title": "La vie des autres",
+    "realisator": "Florian Henckel von Donnersmarck",
+    "genre": "Drame",
+    "actor1": "Ulrich Mühe",
+    "actor2": "",
+    "releaseDate": 2006,
+    "length": "2h17"
+  },
+  {
+    "title": "La vie est belle",
+    "realisator": "Roberto Benigni",
+    "genre": "Drame",
+    "actor1": "Roberto Benigni",
+    "actor2": "Nicoletta Braschi",
+    "releaseDate": 1998,
+    "length": "1h56"
+  },
+  {
+    "title": "Lady Vengeance",
+    "realisator": "Park Chan-Wook",
+    "genre": "Thriller",
+    "actor1": "Yeong-ae Lee",
+    "actor2": "Choi Min-sik",
+    "releaseDate": 2005,
+    "length": "1h55"
+  },
+  {
+    "title": "Larry Flynt",
+    "realisator": "Milos Forman",
+    "genre": "Biopic",
+    "actor1": "Woody Harrelson",
+    "actor2": "Courtney Love",
+    "releaseDate": 1997,
+    "length": "2h10"
+  },
+  {
+    "title": "Lawrence d'Arabie",
+    "realisator": "David Lean",
+    "genre": "Biopic",
+    "actor1": "Peter O'Toole",
+    "actor2": "",
+    "releaseDate": 1962,
+    "length": "3h36"
+  },
+  {
+    "title": "Le bal des vampires",
+    "realisator": "Roman Polanski",
+    "genre": "Comédie",
+    "actor1": "Roman Polanski",
+    "actor2": "",
+    "releaseDate": 1967,
+    "length": "1h48"
+  },
+  {
+    "title": "Le Bon, la brute et le cinglé",
+    "realisator": "Kim Jee-woon",
+    "genre": "Western",
+    "actor1": "Byung-Hun Lee",
+    "actor2": "Song Kang-ho",
+    "releaseDate": 2008,
+    "length": "2h16"
+  },
+  {
+    "title": "Le bon, la brute et le truand",
+    "realisator": "Sergio Leone",
+    "genre": "Western",
+    "actor1": "Clint Eastwood",
+    "actor2": "Lee Van Cleef",
+    "releaseDate": 1966,
+    "length": "2h51"
+  },
+  {
+    "title": "Le Bossu de Notre-Dame",
+    "realisator": "Gary Trousdale",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1996,
+    "length": "1h31"
+  },
+  {
+    "title": "Le cercle des poètes disparus",
+    "realisator": "Peter Weir",
+    "genre": "Drame",
+    "actor1": "Robin Williams",
+    "actor2": "Ethan Hawke",
+    "releaseDate": 1989,
+    "length": "2h08"
+  },
+  {
+    "title": "Le château ambulant",
+    "realisator": "Hayao Miyazaki",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "1h59"
+  },
+  {
+    "title": "Le château dans le ciel",
+    "realisator": "Hayao Miyazaki",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1986,
+    "length": "2h04"
+  },
+  {
+    "title": "Le conte de la princesse Kaguya",
+    "realisator": "Isao Takahata",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2014,
+    "length": "2h17"
+  },
+  {
+    "title": "Le dernier des Mohicans",
+    "realisator": "Michael Mann",
+    "genre": "Aventure",
+    "actor1": "Daniel Day-Lewis",
+    "actor2": "",
+    "releaseDate": 1992,
+    "length": "2h02"
+  },
+  {
+    "title": "Le dernier roi d'Ecosse",
+    "realisator": "Kevin Macdonald",
+    "genre": "Biopic",
+    "actor1": "Forest Whitaker",
+    "actor2": "Gillian Anderson",
+    "releaseDate": 2007,
+    "length": "2h05"
+  },
+  {
+    "title": "Le dernier samouraï",
+    "realisator": "Edward Zwick",
+    "genre": "Action",
+    "actor1": "Tom Cruise",
+    "actor2": "Ken Watanabe",
+    "releaseDate": 2004,
+    "length": "2h34"
+  },
+  {
+    "title": "Le discours d'un roi",
+    "realisator": "Tom Hooper",
+    "genre": "Biopic",
+    "actor1": "Colin Firth",
+    "actor2": "Helena Bonham Carter",
+    "releaseDate": 2011,
+    "length": "1h58"
+  },
+  {
+    "title": "Le fugitif",
+    "realisator": "Andrew Davis",
+    "genre": "Thriller",
+    "actor1": "Harrison Ford",
+    "actor2": "Tommy Lee Jones",
+    "releaseDate": 1993,
+    "length": "2h10"
+  },
+  {
+    "title": "Le labyrinthe de Pan",
+    "realisator": "Guillermo Del Toro",
+    "genre": "Fantastique",
+    "actor1": "Ivana Baquero",
+    "actor2": "Sergi López",
+    "releaseDate": 2006,
+    "length": "1h52"
+  },
+  {
+    "title": "Le lauréat",
+    "realisator": "Mike Nichols",
+    "genre": "Romance",
+    "actor1": "Dustin Hoffman",
+    "actor2": "Anne Bancroft",
+    "releaseDate": 1967,
+    "length": "1h46"
+  },
+  {
+    "title": "Le livre de la jungle",
+    "realisator": "Wolfgang Reitherman",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1967,
+    "length": "1h18"
+  },
+  {
+    "title": "Le loup de Wall Street",
+    "realisator": "Martin Scorsese",
+    "genre": "Biopic",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Margot Robbie",
+    "releaseDate": 2013,
+    "length": "2h59"
+  },
+  {
+    "title": "Le magicien d'Oz",
+    "realisator": "Victor Fleming",
+    "genre": "Fantastique",
+    "actor1": "Judy Garland",
+    "actor2": "",
+    "releaseDate": 1939,
+    "length": "1h42"
+  },
+  {
+    "title": "Le majordome",
+    "realisator": "Lee Daniels",
+    "genre": "Biopic",
+    "actor1": "Forest Whitaker",
+    "actor2": "Oprah Winfrey",
+    "releaseDate": 2013,
+    "length": "2h12"
+  },
+  {
+    "title": "Le monde de Nemo",
+    "realisator": "Andrew Stanton",
+    "genre": "Film d'animation Pixar",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2003,
+    "length": "1h40"
+  },
+  {
+    "title": "Le nom de la rose",
+    "realisator": "Jean-Jacques Annaud",
+    "genre": "Drame",
+    "actor1": "Sean Connery",
+    "actor2": "Christian Slater",
+    "releaseDate": 1986,
+    "length": "2h10"
+  },
+  {
+    "title": "Le Parrain",
+    "realisator": "Francis Ford Coppola",
+    "genre": "Drame",
+    "actor1": "Marlon Brando",
+    "actor2": "Al Pacino",
+    "releaseDate": 1972,
+    "length": "3h"
+  },
+  {
+    "title": "Le Pianiste",
+    "realisator": "Roman Polanski",
+    "genre": "Drame",
+    "actor1": "Adrien Brody",
+    "actor2": "Emilia Fox",
+    "releaseDate": 2002,
+    "length": "2h30"
+  },
+  {
+    "title": "Le Prestige",
+    "realisator": "Christopher Nolan",
+    "genre": "Thriller",
+    "actor1": "Hugh Jackman",
+    "actor2": "Christian Bale",
+    "releaseDate": 2006,
+    "length": "2h08"
+  },
+  {
+    "title": "Le roi et l'oiseau",
+    "realisator": "Paul Grimault",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1979,
+    "length": "1h23"
+  },
+  {
+    "title": "Le roi lion",
+    "realisator": "Roger Allers",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1994,
+    "length": "1h29"
+  },
+  {
+    "title": "Le secret de Brokeback Moutain",
+    "realisator": "Ang Lee",
+    "genre": "Drame",
+    "actor1": "Jake Gyllenhaal",
+    "actor2": "Heath Ledger",
+    "releaseDate": 2005,
+    "length": "2h14"
+  },
+  {
+    "title": "Le seigneur des anneaux 1, 2 & 3",
+    "realisator": "Peter Jackson",
+    "genre": "Heroic Fantasy",
+    "actor1": "Elijah Wood",
+    "actor2": "Viggo Mortensen",
+    "releaseDate": 2001,
+    "length": "3h"
+  },
+  {
+    "title": "Le silence des agneaux",
+    "realisator": "Jonathan Demme",
+    "genre": "Thriller",
+    "actor1": "Anthony Hopkins",
+    "actor2": "Jodie Foster",
+    "releaseDate": 1991,
+    "length": "1h58"
+  },
+  {
+    "title": "Le temps d'un week-end",
+    "realisator": "Martin Brest",
+    "genre": "Drame",
+    "actor1": "Al Pacino",
+    "actor2": "Chris O'Donnell",
+    "releaseDate": 1993,
+    "length": "2h36"
+  },
+  {
+    "title": "Le tombeau des lucioles",
+    "realisator": "Isao Takahata",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1988,
+    "length": "1h29"
+  },
+  {
+    "title": "Le vent se lève",
+    "realisator": "Ken Loach",
+    "genre": "Drame",
+    "actor1": "Cillian Murphy",
+    "actor2": "",
+    "releaseDate": 2006,
+    "length": "2h07"
+  },
+  {
+    "title": "Le vent se lève",
+    "realisator": "Hayao Miyazaki",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2014,
+    "length": "2h07"
+  },
+  {
+    "title": "Le village",
+    "realisator": "M.Night Shyamalan",
+    "genre": "Fantastique",
+    "actor1": "Bryce Dallas Howard",
+    "actor2": "Joaquin Phoenix",
+    "releaseDate": 2004,
+    "length": "1h48"
+  },
+  {
+    "title": "Le voyage de Chihiro",
+    "realisator": "Hayao Miyazaki",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2001,
+    "length": "2h05"
+  },
+  {
+    "title": "Les 101 dalmatiens",
+    "realisator": "Clyde Geronimi",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1961,
+    "length": "1h19"
+  },
+  {
+    "title": "Les affranchis",
+    "realisator": "Martin Scorsese",
+    "genre": "Policier",
+    "actor1": "Robert De Niro",
+    "actor2": "Ray Liotta",
+    "releaseDate": 1990,
+    "length": "2h25"
+  },
+  {
+    "title": "Les aristochats",
+    "realisator": "Wolfgang Reitherman",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1970,
+    "length": "1h18"
+  },
+  {
+    "title": "Les Autres",
+    "realisator": "Alejandro Amenábar",
+    "genre": "Fantastique",
+    "actor1": "Nicole Kidman",
+    "actor2": "",
+    "releaseDate": 2001,
+    "length": "1h45"
+  },
+  {
+    "title": "Les Aventures de Bernard et Bianca",
+    "realisator": "Art Stevens",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1977,
+    "length": "1h18"
+  },
+  {
+    "title": "Les chansons d'amour",
+    "realisator": "Christophe Honoré",
+    "genre": "Comédie Musicale",
+    "actor1": "Louis Garrel",
+    "actor2": "Ludivine Sagnier",
+    "releaseDate": 2007,
+    "length": "1h40"
+  },
+  {
+    "title": "Les combattants",
+    "realisator": "Thomas Cailley",
+    "genre": "Comédie",
+    "actor1": "Adèle Haenel",
+    "actor2": "Kevin Azaïs",
+    "releaseDate": 2014,
+    "length": "1h38"
+  },
+  {
+    "title": "Les Commitments",
+    "realisator": "Alan Parker",
+    "genre": "Musique",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1991,
+    "length": "2h"
+  },
+  {
+    "title": "Les demoiselles de Rochefort",
+    "realisator": "Jacques Demy",
+    "genre": "Comédie Musicale",
+    "actor1": "Catherine Deneuve",
+    "actor2": "Françoise Dorléac",
+    "releaseDate": 1967,
+    "length": "2h"
+  },
+  {
+    "title": "Les enfants loups, Ame & Yuki",
+    "realisator": "Mamoru Hosoda",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2012,
+    "length": "1h57"
+  },
+  {
+    "title": "Les évadés",
+    "realisator": "Frank Darabont",
+    "genre": "Drame",
+    "actor1": "Tim Robbins",
+    "actor2": "Morgan Freeman",
+    "releaseDate": 1995,
+    "length": "2h20"
+  },
+  {
+    "title": "Les fils de l'homme",
+    "realisator": "Alfonso Cuarón",
+    "genre": "Thriller",
+    "actor1": "Clive Owen",
+    "actor2": "Julianne Moore",
+    "releaseDate": 2006,
+    "length": "1h50"
+  },
+  {
+    "title": "Les gardiens de la galaxie",
+    "realisator": "James Gunn",
+    "genre": "Super Héros",
+    "actor1": "Chris Pratt",
+    "actor2": "Zoe Saldana",
+    "releaseDate": 2014,
+    "length": "2h01"
+  },
+  {
+    "title": "Les hommes du président",
+    "realisator": "Alan J. Pakula",
+    "genre": "Policier",
+    "actor1": "Dustin Hoffman",
+    "actor2": "Robert Redford",
+    "releaseDate": 1976,
+    "length": "2h18"
+  },
+  {
+    "title": "Les incorruptibles",
+    "realisator": "Brian de Palma",
+    "genre": "Policier",
+    "actor1": "Kevin Costner",
+    "actor2": "Sean Connery",
+    "releaseDate": 1987,
+    "length": "1h59"
+  },
+  {
+    "title": "Les indestructibles",
+    "realisator": "Brad Bird",
+    "genre": "Film d'animation Pixar",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "1h55"
+  },
+  {
+    "title": "Les joueurs",
+    "realisator": "John Dahl",
+    "genre": "Comédie dramatique",
+    "actor1": "Matt Damon",
+    "actor2": "John Malkovich",
+    "releaseDate": 1998,
+    "length": "2h"
+  },
+  {
+    "title": "Les marches du pouvoir",
+    "realisator": "George Clooney",
+    "genre": "Drame",
+    "actor1": "Ryan Gosling",
+    "actor2": "George Clooney",
+    "releaseDate": 2011,
+    "length": "1h35"
+  },
+  {
+    "title": "Les moissons du ciel",
+    "realisator": "Terrence Malick",
+    "genre": "Drame",
+    "actor1": "Richard Gere",
+    "actor2": "",
+    "releaseDate": 1979,
+    "length": "1h35"
+  },
+  {
+    "title": "Les noces funèbres",
+    "realisator": "Tim Burton",
+    "genre": "Film d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "1h17"
+  },
+  {
+    "title": "Les noces rebelles",
+    "realisator": "Sam Mendes",
+    "genre": "Drame",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Kate Winslet",
+    "releaseDate": 2008,
+    "length": "1h59"
+  },
+  {
+    "title": "Les promesses de l'ombre",
+    "realisator": "David Cronenberg",
+    "genre": "Thriller",
+    "actor1": "Viggo Mortensen",
+    "actor2": "Vincent Cassel",
+    "releaseDate": 2007,
+    "length": "1h40"
+  },
+  {
+    "title": "Les sept samouraïs",
+    "realisator": "Akira Kurosawa",
+    "genre": "Aventure",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1954,
+    "length": "3h27"
+  },
+  {
+    "title": "Les sentiers de la perdition",
+    "realisator": "Sam Mendes",
+    "genre": "Drame",
+    "actor1": "Tom Hanks",
+    "actor2": "Paul Newman",
+    "releaseDate": 2002,
+    "length": "2h05"
+  },
+  {
+    "title": "L'étrange histoire de Benjamin Button",
+    "realisator": "David Fincher",
+    "genre": "Drame",
+    "actor1": "Brad Pitt",
+    "actor2": "Cate Blanchett",
+    "releaseDate": 2008,
+    "length": "2h46"
+  },
+  {
+    "title": "Leaving Las Vegas",
+    "realisator": "Mike Figgis",
+    "genre": "Drame",
+    "actor1": "Nicolas Cage",
+    "actor2": "Elisabeth Shue",
+    "releaseDate": 1996,
+    "length": "1h41"
+  },
+  {
+    "title": "Liberty Heights",
+    "realisator": "Barry Levinson",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2000,
+    "length": "2h07"
+  },
+  {
+    "title": "Lilo & Stitch",
+    "realisator": "Dean DeBlois",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2001,
+    "length": "1h25"
+  },
+  {
+    "title": "Limitless",
+    "realisator": "Neil Burger",
+    "genre": "Action",
+    "actor1": "Bradley Cooper",
+    "actor2": "Robert De Niro",
+    "releaseDate": 2011,
+    "length": "1h45"
+  },
+  {
+    "title": "Lincoln",
+    "realisator": "Steven Spielberg",
+    "genre": "Biopic",
+    "actor1": "Daniel Day-Lewis",
+    "actor2": "Sally Field",
+    "releaseDate": 2013,
+    "length": "2h29"
+  },
+  {
+    "title": "Little Big Man",
+    "realisator": "Arthur Penn",
+    "genre": "Western",
+    "actor1": "Dustin Hoffman",
+    "actor2": "",
+    "releaseDate": 1970,
+    "length": "2h19"
+  },
+  {
+    "title": "Little Children",
+    "realisator": "Todd Field",
+    "genre": "Drame",
+    "actor1": "Patrick Wilson",
+    "actor2": "Kate Winslet",
+    "releaseDate": 2007,
+    "length": "2h16"
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "realisator": "Jonathan Dayton & Valerie Faris",
+    "genre": "Comédie",
+    "actor1": "Abigail Breslin",
+    "actor2": "Paul Dano",
+    "releaseDate": 2006,
+    "length": "1h41"
+  },
+  {
+    "title": "Loin des hommes",
+    "realisator": "David Oelhoffen",
+    "genre": "Drame",
+    "actor1": "Viggo Mortensen",
+    "actor2": "Reda Kateb",
+    "releaseDate": 2015,
+    "length": "1h41"
+  },
+  {
+    "title": "Looper",
+    "realisator": "Rian Johnson",
+    "genre": "Action",
+    "actor1": "Bruce Willis",
+    "actor2": "Joseph Gordon-Levitt",
+    "releaseDate": 2012,
+    "length": "1h59"
+  },
+  {
+    "title": "Lord of War",
+    "realisator": "Andrew Niccol",
+    "genre": "Drame",
+    "actor1": "Nicolas Cage",
+    "actor2": "Jared Leto",
+    "releaseDate": 2005,
+    "length": "2h02"
+  },
+  {
+    "title": "Lost in Translation",
+    "realisator": "Sofia Coppola",
+    "genre": "Drame",
+    "actor1": "Bill Murray",
+    "actor2": "Scarlett Johansson",
+    "releaseDate": 2003,
+    "length": "1h41"
+  },
+  {
+    "title": "Love Actually",
+    "realisator": "Richard Curtis",
+    "genre": "Comédie",
+    "actor1": "Hugh Grant",
+    "actor2": "Liam Neeson",
+    "releaseDate": 2003,
+    "length": "2h10"
+  },
+  {
+    "title": "Mademoiselle/The Handmaiden",
+    "realisator": "Park Chan-Wook",
+    "genre": "Drame",
+    "actor1": "Min-Hee Kim",
+    "actor2": "Kim Tae-Ri",
+    "releaseDate": 2016,
+    "length": "2h31"
+  },
+  {
+    "title": "Magnolia",
+    "realisator": "Paul Thomas Anderson",
+    "genre": "Drame",
+    "actor1": "Tom Cruise",
+    "actor2": "Julianne Moore",
+    "releaseDate": 2000,
+    "length": "3h04"
+  },
+  {
+    "title": "Marathon Man",
+    "realisator": "John Schlesinger",
+    "genre": "Thriller",
+    "actor1": "Dustin Hoffman",
+    "actor2": "",
+    "releaseDate": 1976,
+    "length": "2h05"
+  },
+  {
+    "title": "Master & Commander",
+    "realisator": "Peter Weir",
+    "genre": "Aventure",
+    "actor1": "Russel Crowe",
+    "actor2": "Paul Bettany",
+    "releaseDate": 2003,
+    "length": "2h14"
+  },
+  {
+    "title": "Mais qui veut la peau de Roger Rabbit ?",
+    "realisator": "Robert Zemeckis",
+    "genre": "Dessin Animé",
+    "actor1": "Bob Hoskins",
+    "actor2": "Christopher Lloyd",
+    "releaseDate": 1988,
+    "length": "1h43"
+  },
+  {
+    "title": "Man on the Moon",
+    "realisator": "Milos Forman",
+    "genre": "Drame",
+    "actor1": "Jim Carrey",
+    "actor2": "Courtney Love",
+    "releaseDate": 1999,
+    "length": "1h58"
+  },
+  {
+    "title": "Mary & Max",
+    "realisator": "Adam Elliott",
+    "genre": "Film d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2009,
+    "length": "1h32"
+  },
+  {
+    "title": "Match Point",
+    "realisator": "Woody Allen",
+    "genre": "Drame",
+    "actor1": "Jonathan Rhys Meyers",
+    "actor2": "Scarlett Johansson",
+    "releaseDate": 2005,
+    "length": "2h04"
+  },
+  {
+    "title": "Matrix",
+    "realisator": "Lana & Andy Wachowski",
+    "genre": "Science-fiction",
+    "actor1": "Keanu Reeves",
+    "actor2": "Laurence Fishburne",
+    "releaseDate": 1999,
+    "length": "2h16"
+  },
+  {
+    "title": "Memento",
+    "realisator": "Christopher Nolan",
+    "genre": "Thriller",
+    "actor1": "Guy Pearce",
+    "actor2": "Carrie-Anne Moss",
+    "releaseDate": 2000,
+    "length": "1h53"
+  },
+  {
+    "title": "Memories of Murder",
+    "realisator": "Joon-ho Bong",
+    "genre": "Thriller",
+    "actor1": "Kang-ho Song",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "2h10"
+  },
+  {
+    "title": "Merlin l'enchanteur",
+    "realisator": "Wolfgang Reitherman",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1963,
+    "length": "1h19"
+  },
+  {
+    "title": "Mesrine 1 & 2",
+    "realisator": "Jean-François Richet",
+    "genre": "Biopic",
+    "actor1": "Vincent Cassel",
+    "actor2": "Ludivine Sagnier",
+    "releaseDate": 2008,
+    "length": "1h50"
+  },
+  {
+    "title": "Metropolis",
+    "realisator": "Rintaro",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2001,
+    "length": "1h48"
+  },
+  {
+    "title": "Michael Clayton",
+    "realisator": "Tony Gilroy",
+    "genre": "Thriller",
+    "actor1": "George Clooney",
+    "actor2": "Tom Wilkinson",
+    "releaseDate": 2007,
+    "length": "1h59"
+  },
+  {
+    "title": "Million Dollar Baby",
+    "realisator": "Clint Eastwood",
+    "genre": "Drame",
+    "actor1": "Clint Eastwood",
+    "actor2": "Hilary Swank",
+    "releaseDate": 2004,
+    "length": "2h12"
+  },
+  {
+    "title": "Minority Report",
+    "realisator": "Steven Spielberg",
+    "genre": "Policier",
+    "actor1": "Tom Cruise",
+    "actor2": "Colin Farrell",
+    "releaseDate": 2002,
+    "length": "2h25"
+  },
+  {
+    "title": "Minuit à Paris",
+    "realisator": "Woody Allen",
+    "genre": "Comédie",
+    "actor1": "Owen Wilson",
+    "actor2": "Rachel McAdams",
+    "releaseDate": 2011,
+    "length": "1h34"
+  },
+  {
+    "title": "Minuit dans le jardin du bien et du mal",
+    "realisator": "Clint Eastwood",
+    "genre": "Thriller",
+    "actor1": "John Cusack",
+    "actor2": "Kevin Spacey",
+    "releaseDate": 1998,
+    "length": "2h35"
+  },
+  {
+    "title": "Mission",
+    "realisator": "Roland Joffé",
+    "genre": "Drame",
+    "actor1": "Robert De Niro",
+    "actor2": "Jeremy Irons",
+    "releaseDate": 1986,
+    "length": "2h05"
+  },
+  {
+    "title": "Mission impossible",
+    "realisator": "Brian de Palma",
+    "genre": "Action",
+    "actor1": "Tom Cruise",
+    "actor2": "Jean Reno",
+    "releaseDate": 1996,
+    "length": "1h50"
+  },
+  {
+    "title": "Monstres & Cie 1 & 2",
+    "realisator": "Pete Docter",
+    "genre": "Film d'animation Pixar",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2001,
+    "length": "1h32"
+  },
+  {
+    "title": "Mon voisin Totoro",
+    "realisator": "Hayao Miyazaki",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1988,
+    "length": "1h26"
+  },
+  {
+    "title": "Moon",
+    "realisator": "Duncan Jones",
+    "genre": "Science-fiction",
+    "actor1": "Sam Rockwell",
+    "actor2": "Kevin Spacey",
+    "releaseDate": 2011,
+    "length": "1h37"
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "realisator": "Wes Anderson",
+    "genre": "Comédie",
+    "actor1": "Edward Norton",
+    "actor2": "Bruce Willis",
+    "releaseDate": 2012,
+    "length": "1h34"
+  },
+  {
+    "title": "Mort d'un commis voyageur",
+    "realisator": "Volker Schlöndorff",
+    "genre": "Drame",
+    "actor1": "Dustin Hoffman",
+    "actor2": "John Malkovich",
+    "releaseDate": 1985,
+    "length": "2h16"
+  },
+  {
+    "title": "Mother",
+    "realisator": "Joon-ho Bong",
+    "genre": "Thriller",
+    "actor1": "Won Bin",
+    "actor2": "",
+    "releaseDate": 2009,
+    "length": "2h08"
+  },
+  {
+    "title": "Moulin Rouge",
+    "realisator": "Baz Luhrmann",
+    "genre": "Comédie Musicale",
+    "actor1": "Ewan McGregor",
+    "actor2": "Nicole Kidman",
+    "releaseDate": 2001,
+    "length": "2h07"
+  },
+  {
+    "title": "Mr Nobody",
+    "realisator": "",
+    "genre": "Fantastique",
+    "actor1": "Jared Leto",
+    "actor2": "Diane Kruger",
+    "releaseDate": 2010,
+    "length": "2h21"
+  },
+  {
+    "title": "Mud - Sur les rives du Mississippi",
+    "realisator": "Jeff Nichols",
+    "genre": "Drame",
+    "actor1": "Matthew McConaughey",
+    "actor2": "Reese Witherspoon",
+    "releaseDate": 2013,
+    "length": "2h10"
+  },
+  {
+    "title": "Mulholland Drive",
+    "realisator": "David Lynch",
+    "genre": "Fantastique",
+    "actor1": "Naomi Watts",
+    "actor2": "Laura Elena Harring",
+    "releaseDate": 2001,
+    "length": "2h26"
+  },
+  {
+    "title": "My Blueberry Nights",
+    "realisator": "Wong Kar-Wai",
+    "genre": "Romance",
+    "actor1": "Norah Jones",
+    "actor2": "Jude Law",
+    "releaseDate": 2007,
+    "length": "1h35"
+  },
+  {
+    "title": "My Left Foot",
+    "realisator": "Jim Sheridan",
+    "genre": "Drame",
+    "actor1": "Daniel Day-Lewis",
+    "actor2": "",
+    "releaseDate": 1989,
+    "length": "1h40"
+  },
+  {
+    "title": "Mysterious skin",
+    "realisator": "Gregg Araki",
+    "genre": "Drame",
+    "actor1": "Brady Corbet",
+    "actor2": "Joseph Gordon-Levitt",
+    "releaseDate": 2004,
+    "length": "1h45"
+  },
+  {
+    "title": "Mystic River",
+    "realisator": "Clint Eastwood",
+    "genre": "Thriller",
+    "actor1": "Sean Penn",
+    "actor2": "Tim Robbins",
+    "releaseDate": 2003,
+    "length": "2h18"
+  },
+  {
+    "title": "Nausicaä de la vallée du vent",
+    "realisator": "Hayao Miyazaki",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1984,
+    "length": "1h56"
+  },
+  {
+    "title": "Négociateur",
+    "realisator": "F. Gary Gray",
+    "genre": "Thriller",
+    "actor1": "Samuel L. Jackson",
+    "actor2": "Kevin Spacey",
+    "releaseDate": 1998,
+    "length": "2h18"
+  },
+  {
+    "title": "Neverland",
+    "realisator": "Marc Foster",
+    "genre": "Drame",
+    "actor1": "Johnny Depp",
+    "actor2": "Kate Winslet",
+    "releaseDate": 2005,
+    "length": "1h46"
+  },
+  {
+    "title": "New York, New York",
+    "realisator": "Martin Scorsese",
+    "genre": "Romance",
+    "actor1": "Liza Minnelli",
+    "actor2": "Robert De Niro",
+    "releaseDate": 1977,
+    "length": "2h43"
+  },
+  {
+    "title": "Night Call",
+    "realisator": "Dan Gilroy",
+    "genre": "Thriller",
+    "actor1": "Jake Gyllenhaal",
+    "actor2": "Rene Russo",
+    "releaseDate": 2014,
+    "length": "1h57"
+  },
+  {
+    "title": "Nobody Knows",
+    "realisator": "Hirokazu Koreeda",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "2h21"
+  },
+  {
+    "title": "No Country for Old Men",
+    "realisator": "Joel Coen & Ethan Coen",
+    "genre": "Thriller",
+    "actor1": "Josh Brolin",
+    "actor2": "Javier Bardem",
+    "releaseDate": 2008,
+    "length": "2h02"
+  },
+  {
+    "title": "O'Brother",
+    "realisator": "Joel Coen & Ethan Coen",
+    "genre": "Comédie",
+    "actor1": "George Clooney",
+    "actor2": "John Turturro",
+    "releaseDate": 2000,
+    "length": "1h46"
+  },
+  {
+    "title": "Ocean's Eleven",
+    "realisator": "Steven Soderbergh",
+    "genre": "Comédie",
+    "actor1": "George Clooney",
+    "actor2": "Brad Pitt",
+    "releaseDate": 2001,
+    "length": "1h57"
+  },
+  {
+    "title": "Oldboy",
+    "realisator": "Park Chan-Wook",
+    "genre": "Thriller",
+    "actor1": "Choi Min-sik",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "1h59"
+  },
+  {
+    "title": "Oliver et compagnie",
+    "realisator": "George Scribner",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1988,
+    "length": "1h14"
+  },
+  {
+    "title": "Only lovers left alive",
+    "realisator": "Jim Jarmusch",
+    "genre": "Drame",
+    "actor1": "Tom Hiddleston",
+    "actor2": "Tilda Swinton",
+    "releaseDate": 2014,
+    "length": "2h03"
+  },
+  {
+    "title": "Orange Mécanique",
+    "realisator": "Stanley Kubrick",
+    "genre": "Drame",
+    "actor1": "Malcolm McDowell",
+    "actor2": "",
+    "releaseDate": 1971,
+    "length": "2h16"
+  },
+  {
+    "title": "OSS 117 1 & 2",
+    "realisator": "Michel Hazanavicius",
+    "genre": "Comédie",
+    "actor1": "Jean Dujardin",
+    "actor2": "",
+    "releaseDate": 2006,
+    "length": "1h40"
+  },
+  {
+    "title": "Out of Africa",
+    "realisator": "Sydney Pollack",
+    "genre": "Biopic",
+    "actor1": "Meryl Streep",
+    "actor2": "Rpbert Redford",
+    "releaseDate": 1986,
+    "length": "2h41"
+  },
+  {
+    "title": "Papa",
+    "realisator": "Maurice Barthélémy",
+    "genre": "Comédie",
+    "actor1": "Alain Chabat",
+    "actor2": "Martin Combes",
+    "releaseDate": 2004,
+    "length": "1h20"
+  },
+  {
+    "title": "Paprika",
+    "realisator": "Satoshi Kon",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2005,
+    "length": "1h30"
+  },
+  {
+    "title": "Paranoid Park",
+    "realisator": "Gus Van Sant",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2007,
+    "length": "1h25"
+  },
+  {
+    "title": "Parasite",
+    "realisator": "Bong Joon-ho",
+    "genre": "Thriller",
+    "actor1": "Song Kang-Ho",
+    "actor2": "Cho Yeo-jeong",
+    "releaseDate": 2019,
+    "length": "2h12"
+  },
+  {
+    "title": "Parle avec elle",
+    "realisator": "Pedro Almodóvar",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2002,
+    "length": "1h52"
+  },
+  {
+    "title": "Perfect Blue",
+    "realisator": "Satoshi Kon",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1997,
+    "length": "1h21"
+  },
+  {
+    "title": "Persepolis",
+    "realisator": "Marjane Satrapi",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2007,
+    "length": "1h35"
+  },
+  {
+    "title": "Peter Pan",
+    "realisator": "Hamilton Luske",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1953,
+    "length": "1h16"
+  },
+  {
+    "title": "Phantom of the Paradise",
+    "realisator": "Brian de Palma",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1974,
+    "length": "1h32"
+  },
+  {
+    "title": "Philadelphia",
+    "realisator": "Jonathan Demme",
+    "genre": "Drame",
+    "actor1": "Tom Hanks",
+    "actor2": "Denzel Washington",
+    "releaseDate": 1994,
+    "length": "1h59"
+  },
+  {
+    "title": "Phone Game",
+    "realisator": "Joel Schumacher",
+    "genre": "Thriller",
+    "actor1": "Colin Farrell",
+    "actor2": "Forest Whitaker",
+    "releaseDate": 2003,
+    "length": "1h21"
+  },
+  {
+    "title": "Pinocchio",
+    "realisator": "Hamilton Luske",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1940,
+    "length": "1h28"
+  },
+  {
+    "title": "Pirates des Caraïbes 1",
+    "realisator": "Gore Verbinski",
+    "genre": "Action",
+    "actor1": "Johnny Depp",
+    "actor2": "Orlando Bloom",
+    "releaseDate": 2003,
+    "length": "2h23"
+  },
+  {
+    "title": "Platoon",
+    "realisator": "Oliver Stone",
+    "genre": "Guerre",
+    "actor1": "Charlie Sheen",
+    "actor2": "",
+    "releaseDate": 1986,
+    "length": "2h02"
+  },
+  {
+    "title": "Pocahontas",
+    "realisator": "Mike Gabriel",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1995,
+    "length": "1h22"
+  },
+  {
+    "title": "Polisse",
+    "realisator": "Maïwenn",
+    "genre": "Drame",
+    "actor1": "JoeyStarr",
+    "actor2": "Maïwenn",
+    "releaseDate": 2011,
+    "length": "2h07"
+  },
+  {
+    "title": "Porco Rosso",
+    "realisator": "Hayao Miyazaki",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1995,
+    "length": "1h33"
+  },
+  {
+    "title": "Pulp Fiction",
+    "realisator": "Quentin Tarantino",
+    "genre": "What the fuck",
+    "actor1": "John Travolta",
+    "actor2": "Samuel L.Jackson",
+    "releaseDate": 1994,
+    "length": "2h29"
+  },
+  {
+    "title": "Princesse Mononoké",
+    "realisator": "Hayao Miyazaki",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1997,
+    "length": "2h15"
+  },
+  {
+    "title": "Prisoners",
+    "realisator": "Dennis Villeneuve",
+    "genre": "Thriller",
+    "actor1": "Hugh Jackman",
+    "actor2": "Jake Gyllenhaal",
+    "releaseDate": 2013,
+    "length": "2h33"
+  },
+  {
+    "title": "Promised Land",
+    "realisator": "Gus Van Sant",
+    "genre": "Drame",
+    "actor1": "Matt Damon",
+    "actor2": "Rosemarie DeWitt",
+    "releaseDate": 2013,
+    "length": "1h46"
+  },
+  {
+    "title": "Public Enemies",
+    "realisator": "Michael Mann",
+    "genre": "Policier",
+    "actor1": "Johnny Depp",
+    "actor2": "Christian Bale",
+    "releaseDate": 2009,
+    "length": "2h13"
+  },
+  {
+    "title": "Rabbit Hole",
+    "realisator": "John Cameron Mitchell",
+    "genre": "Drame",
+    "actor1": "Aaron Eckhart",
+    "actor2": "Nicole Kidman",
+    "releaseDate": 2010,
+    "length": "1h32"
+  },
+  {
+    "title": "Raging Bull",
+    "realisator": "Martin Scorsese",
+    "genre": "Biopic",
+    "actor1": "Robert De Niro",
+    "actor2": "",
+    "releaseDate": 1980,
+    "length": "2h09"
+  },
+  {
+    "title": "Rain Man",
+    "realisator": "Barry Levinson",
+    "genre": "Drame",
+    "actor1": "Tom Cruise",
+    "actor2": "Dustin Hoffman",
+    "releaseDate": 1988,
+    "length": "2h13"
+  },
+  {
+    "title": "Raiponce",
+    "realisator": "Byron Howard",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2010,
+    "length": "1h41"
+  },
+  {
+    "title": "Rango",
+    "realisator": "Gore Verbinski",
+    "genre": "Film d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2011,
+    "length": "1h40"
+  },
+  {
+    "title": "Ratatouille",
+    "realisator": "Brad Bird",
+    "genre": "Film d'animation Pixar",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2007,
+    "length": "1h50"
+  },
+  {
+    "title": "Ray",
+    "realisator": "Taylor Hackford",
+    "genre": "Biopic",
+    "actor1": "Jamie Foxx",
+    "actor2": "Kerry Washington",
+    "releaseDate": 2004,
+    "length": "2h32"
+  },
+  {
+    "title": "REC",
+    "realisator": "Paco Plaza / Jaume Balagueró",
+    "genre": "Horreur",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2008,
+    "length": "1h20"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "realisator": "Darren Aronofsky",
+    "genre": "Drame",
+    "actor1": "Jared Leto",
+    "actor2": "Jennifer Connelly",
+    "releaseDate": 2000,
+    "length": "1h50"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "realisator": "Quentin Tarantino",
+    "genre": "Policier",
+    "actor1": "Harvey Keitel",
+    "actor2": "Tim Roth",
+    "releaseDate": 1992,
+    "length": "1h39"
+  },
+  {
+    "title": "Révélations",
+    "realisator": "Michael Mann",
+    "genre": "Drame",
+    "actor1": "Al Pacino",
+    "actor2": "Russel Crowe",
+    "releaseDate": 2000,
+    "length": "2h38"
+  },
+  {
+    "title": "Robin des bois",
+    "realisator": "Wolfgang Reitherman",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1973,
+    "length": "1h23"
+  },
+  {
+    "title": "RockNRolla",
+    "realisator": "Guy Ritchie",
+    "genre": "Policier",
+    "actor1": "Gerard Butler",
+    "actor2": "Tom Wilkinson",
+    "releaseDate": 2008,
+    "length": "1h54"
+  },
+  {
+    "title": "Rosemary's baby",
+    "realisator": "Roman Polanski",
+    "genre": "Horreur",
+    "actor1": "Mia Farrow",
+    "actor2": "John Cassavetes",
+    "releaseDate": 1968,
+    "length": "2h16"
+  },
+  {
+    "title": "Rox et Rouky",
+    "realisator": "Richard Rich",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1981,
+    "length": "1h23"
+  },
+  {
+    "title": "Sailor & Lula",
+    "realisator": "David Lynch",
+    "genre": "Comédie dramatique",
+    "actor1": "Nicolas Cage",
+    "actor2": "",
+    "releaseDate": 1990,
+    "length": "2h07"
+  },
+  {
+    "title": "Saw",
+    "realisator": "James Wan",
+    "genre": "Thriller",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "1h44"
+  },
+  {
+    "title": "Serpico",
+    "realisator": "Sidney Lumet",
+    "genre": "Policier",
+    "actor1": "Al Pacino",
+    "actor2": "",
+    "releaseDate": 1973,
+    "length": "2h10"
+  },
+  {
+    "title": "Seul au monde",
+    "realisator": "Robert Zemeckis",
+    "genre": "Aventure",
+    "actor1": "Tom Hanks",
+    "actor2": "Helen Hunt",
+    "releaseDate": 2001,
+    "length": "2h23"
+  },
+  {
+    "title": "Seven",
+    "realisator": "David Fincher",
+    "genre": "Thriller",
+    "actor1": "Brad Pitt",
+    "actor2": "Morgan Freeman",
+    "releaseDate": 1995,
+    "length": "2h10"
+  },
+  {
+    "title": "Shame",
+    "realisator": "Steve McQueen II",
+    "genre": "Drame",
+    "actor1": "Michael Fassbender",
+    "actor2": "Carey Mulligan",
+    "releaseDate": 2011,
+    "length": "1h39"
+  },
+  {
+    "title": "Shaun of the Dead",
+    "realisator": "Edgar Wright",
+    "genre": "Comédie",
+    "actor1": "Simon Pegg",
+    "actor2": "Nick Frost",
+    "releaseDate": 2005,
+    "length": "1h39"
+  },
+  {
+    "title": "Sherlock Holmes 1 & 2",
+    "realisator": "Guy Ritchie",
+    "genre": "Action",
+    "actor1": "Robert Downey Jr.",
+    "actor2": "Jude Law",
+    "releaseDate": 2010,
+    "length": "2h10"
+  },
+  {
+    "title": "Shining",
+    "realisator": "Stanley Kubrick",
+    "genre": "Horreur",
+    "actor1": "Jack Nicholson",
+    "actor2": "",
+    "releaseDate": 1980,
+    "length": "2h26"
+  },
+  {
+    "title": "Shortbus",
+    "realisator": "John Cameron Mitchell",
+    "genre": "Drame, Sexe",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2005,
+    "length": "1h42"
+  },
+  {
+    "title": "Short Term 12 (States of Grace)",
+    "realisator": "Destin Cretton",
+    "genre": "Drame",
+    "actor1": "Brie Larson",
+    "actor2": "",
+    "releaseDate": 2014,
+    "length": "1h41"
+  },
+  {
+    "title": "Shrek 1 & 2",
+    "realisator": "Andrew Adamson",
+    "genre": "Film d'animation DreamWorks",
+    "actor1": "Alain Chabat",
+    "actor2": "",
+    "releaseDate": 2001,
+    "length": "1h29"
+  },
+  {
+    "title": "Shutter Island",
+    "realisator": "Martin Scorsese",
+    "genre": "Thriller",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Mark Ruffalo",
+    "releaseDate": 2010,
+    "length": "2h17"
+  },
+  {
+    "title": "Signes",
+    "realisator": "M.Night Shyamalan",
+    "genre": "Fantastique",
+    "actor1": "Mel Gibson",
+    "actor2": "Joaquin Phoenix",
+    "releaseDate": 2002,
+    "length": "1h45"
+  },
+  {
+    "title": "Sin City",
+    "realisator": "Robert Rodriguez",
+    "genre": "Action",
+    "actor1": "Bruce Willis",
+    "actor2": "Mickey Rourke",
+    "releaseDate": 2005,
+    "length": "2h03"
+  },
+  {
+    "title": "Sixième sens",
+    "realisator": "M.Night Shyamalan",
+    "genre": "Drame",
+    "actor1": "Bruce Willis",
+    "actor2": "Haley Joel Osment",
+    "releaseDate": 2000,
+    "length": "1h47"
+  },
+  {
+    "title": "Skyfall",
+    "realisator": "Sam Mendes",
+    "genre": "Action",
+    "actor1": "Daniel Craig",
+    "actor2": "Javier Bardem",
+    "releaseDate": 2012,
+    "length": "2h23"
+  },
+  {
+    "title": "Sleepy Hollow",
+    "realisator": "Tim Burton",
+    "genre": "Fantastique",
+    "actor1": "Johnny Depp",
+    "actor2": "Christina Ricci",
+    "releaseDate": 2000,
+    "length": "1h45"
+  },
+  {
+    "title": "Snake Eyes",
+    "realisator": "Brian de Palma",
+    "genre": "Policier",
+    "actor1": "Nicolas Cage",
+    "actor2": "",
+    "releaseDate": 1998,
+    "length": "1h38"
+  },
+  {
+    "title": "Snatch",
+    "realisator": "Guy Ritchie",
+    "genre": "Comédie",
+    "actor1": "Jason Statham",
+    "actor2": "Brad Pitt",
+    "releaseDate": 2000,
+    "length": "1h43"
+  },
+  {
+    "title": "Snow Cake",
+    "realisator": "Marc Evans",
+    "genre": "Drame",
+    "actor1": "Alan Rickman",
+    "actor2": "Sigourney Weaver",
+    "releaseDate": 2007,
+    "length": "1h52"
+  },
+  {
+    "title": "Source Code",
+    "realisator": "Duncan Jones",
+    "genre": "Action",
+    "actor1": "Jake Gyllenhaal",
+    "actor2": "Michelle Monaghan",
+    "releaseDate": 2011,
+    "length": "1h33"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "realisator": "Peter Ramsey, Bob Persichetti, Rodney Rothman",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2018,
+    "length": "1h57"
+  },
+  {
+    "title": "Stalingrad",
+    "realisator": "Jean-Jacques Annaud",
+    "genre": "Guerre",
+    "actor1": "Jude Law",
+    "actor2": "Rachel Weisz",
+    "releaseDate": 2001,
+    "length": "2h10"
+  },
+  {
+    "title": "Stalker",
+    "realisator": "Andreï Tarkovski",
+    "genre": "Fantastique",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1979,
+    "length": "2h43"
+  },
+  {
+    "title": "Starbuck",
+    "realisator": "Ken Scott",
+    "genre": "Comédie",
+    "actor1": "Patrick Huard",
+    "actor2": "",
+    "releaseDate": 2012,
+    "length": "1h49"
+  },
+  {
+    "title": "Star Wars",
+    "realisator": "George Lucas",
+    "genre": "Science-fiction",
+    "actor1": "Mark Hamill",
+    "actor2": "Harrison Ford",
+    "releaseDate": 1977,
+    "length": "2h"
+  },
+  {
+    "title": "Summer Wars",
+    "realisator": "Mamoru Hosoda",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2010,
+    "length": "1h54"
+  },
+  {
+    "title": "Sur la route de Madison",
+    "realisator": "Clint Eastwood",
+    "genre": "Drame",
+    "actor1": "Clint Eastwood",
+    "actor2": "Meryl Streep",
+    "releaseDate": 1995,
+    "length": "2h15"
+  },
+  {
+    "title": "Sympathy for Mr. Vengeance",
+    "realisator": "Park Chan-Wook",
+    "genre": "Thriller",
+    "actor1": "Kang-ho Song",
+    "actor2": "",
+    "releaseDate": 2002,
+    "length": "2h"
+  },
+  {
+    "title": "Take Shelter",
+    "realisator": "Jeff Nichols",
+    "genre": "Drame",
+    "actor1": "Michael Shannon",
+    "actor2": "Jessica Chastain",
+    "releaseDate": 2011,
+    "length": "2h01"
+  },
+  {
+    "title": "Tarzan",
+    "realisator": "Kevin Lima",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1999,
+    "length": "1h28"
+  },
+  {
+    "title": "Taxi Driver",
+    "realisator": "Martin Scorsese",
+    "genre": "Drame",
+    "actor1": "Robert De Niro",
+    "actor2": "Jodie Foster",
+    "releaseDate": 1976,
+    "length": "1h55"
+  },
+  {
+    "title": "Thank you for smoking",
+    "realisator": "Jason Reitman",
+    "genre": "Comédie",
+    "actor1": "Aaron Eckhart",
+    "actor2": "Robert Duvall",
+    "releaseDate": 2006,
+    "length": "1h32"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "realisator": "Wes Anderson",
+    "genre": "Comédie",
+    "actor1": "Ralph Fiennes",
+    "actor2": "Tony Revolori",
+    "releaseDate": 2014,
+    "length": "1h40"
+  },
+  {
+    "title": "Thelma et Louise",
+    "realisator": "Ridley Scott",
+    "genre": "Comédie dramatique",
+    "actor1": "Susan Sarandon",
+    "actor2": "",
+    "releaseDate": 1991,
+    "length": "2h19"
+  },
+  {
+    "title": "The Artist",
+    "realisator": "Michel Hazanavicius",
+    "genre": "Comédie",
+    "actor1": "Jean Dujardin",
+    "actor2": "Bérénice Bejo",
+    "releaseDate": 2011,
+    "length": "1h40"
+  },
+  {
+    "title": "The Barber : l'homme qui n'était pas là",
+    "realisator": "Joel Coen & Ethan Coen",
+    "genre": "Policier",
+    "actor1": "Billy Bob Thornton",
+    "actor2": "Scarlett Johansson",
+    "releaseDate": 2001,
+    "length": "1h56"
+  },
+  {
+    "title": "The Big Lebowski",
+    "realisator": "Joel Coen & Ethan Coen",
+    "genre": "What the fuck",
+    "actor1": "Jeff Bridges",
+    "actor2": "Julianne Moore",
+    "releaseDate": 1998,
+    "length": "1h57"
+  },
+  {
+    "title": "The Chaser",
+    "realisator": "Hong-jin Na",
+    "genre": "Thriller",
+    "actor1": "Yun-seok Kim",
+    "actor2": "",
+    "releaseDate": 2008,
+    "length": "2h03"
+  },
+  {
+    "title": "The Descendants",
+    "realisator": "Alexander Payne",
+    "genre": "Comédie dramatique",
+    "actor1": "George Clooney",
+    "actor2": "Shailene Woodley",
+    "releaseDate": 2011,
+    "length": "1h50"
+  },
+  {
+    "title": "The Game",
+    "realisator": "David Fincher",
+    "genre": "Thriller",
+    "actor1": "Michael Douglas",
+    "actor2": "Sean Penn",
+    "releaseDate": 1997,
+    "length": "2h08"
+  },
+  {
+    "title": "The Ghost Writer",
+    "realisator": "Roman Polanski",
+    "genre": "Thriller",
+    "actor1": "Ewan McGregor",
+    "actor2": "Pierce Brosnan",
+    "releaseDate": 2010,
+    "length": "2h08"
+  },
+  {
+    "title": "The Jacket",
+    "realisator": "John Maybury",
+    "genre": "Thriller",
+    "actor1": "Adrien Brody",
+    "actor2": "Keira Knightley",
+    "releaseDate": 2005,
+    "length": "1h42"
+  },
+  {
+    "title": "The Machinist",
+    "realisator": "Brad Anderson",
+    "genre": "Drame",
+    "actor1": "Christian Bale",
+    "actor2": "Jennifer Jason Leigh",
+    "releaseDate": 2005,
+    "length": "1h42"
+  },
+  {
+    "title": "The Man From Nowhere",
+    "realisator": "Lee Jeong-beom",
+    "genre": "Action",
+    "actor1": "Won Bin",
+    "actor2": "",
+    "releaseDate": 2010,
+    "length": "1h59"
+  },
+  {
+    "title": "The Murderer",
+    "realisator": "Hong-jin Na",
+    "genre": "Thriller",
+    "actor1": "Yun-seok Kim",
+    "actor2": "",
+    "releaseDate": 2011,
+    "length": "2h20"
+  },
+  {
+    "title": "The Notebook",
+    "realisator": "Nick Cassavetes",
+    "genre": "Romance",
+    "actor1": "Ryan Gosling",
+    "actor2": "Rachel McAdams",
+    "releaseDate": 2004,
+    "length": "2h01"
+  },
+  {
+    "title": "The Pledge",
+    "realisator": "Sean Penn",
+    "genre": "Policier",
+    "actor1": "Jack Nicholson",
+    "actor2": "Aaron Eckhart",
+    "releaseDate": 2001,
+    "length": "2h04"
+  },
+  {
+    "title": "The Social Network",
+    "realisator": "David Fincher",
+    "genre": "Biopic",
+    "actor1": "Jesse Eisenberg",
+    "actor2": "Justin Timberlake",
+    "releaseDate": 2010,
+    "length": "2h"
+  },
+  {
+    "title": "The Thing",
+    "realisator": "John Carpenter",
+    "genre": "Horreur",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1982,
+    "length": "1h48"
+  },
+  {
+    "title": "The Town",
+    "realisator": "Ben Affleck",
+    "genre": "Drame",
+    "actor1": "Ben Affleck",
+    "actor2": "Rebecca Hall",
+    "releaseDate": 2010,
+    "length": "2h03"
+  },
+  {
+    "title": "The Truman Show",
+    "realisator": "Peter Weir",
+    "genre": "Comédie dramatique",
+    "actor1": "Jim Carrey",
+    "actor2": "Laura Linney",
+    "releaseDate": 1998,
+    "length": "1h43"
+  },
+  {
+    "title": "The Weather Man",
+    "realisator": "Gore Verbinski",
+    "genre": "Comédie dramatique",
+    "actor1": "Nicolas Cage",
+    "actor2": "Michael Caine",
+    "releaseDate": 2005,
+    "length": "1h41"
+  },
+  {
+    "title": "The Woodsman",
+    "realisator": "Nicole Kassell",
+    "genre": "Drame",
+    "actor1": "Kevin Bacon",
+    "actor2": "",
+    "releaseDate": 2006,
+    "length": "1h27"
+  },
+  {
+    "title": "The Wrestler",
+    "realisator": "Darren Aronofsky",
+    "genre": "Drame",
+    "actor1": "Mickey Rourke",
+    "actor2": "Marisa Tomei",
+    "releaseDate": 2008,
+    "length": "1h45"
+  },
+  {
+    "title": "There Will Be Blood",
+    "realisator": "Paul Thomas Anderson",
+    "genre": "Drame",
+    "actor1": "Daniel Day-Lewis",
+    "actor2": "Paul Dano",
+    "releaseDate": 2008,
+    "length": "2h38"
+  },
+  {
+    "title": "The Yards",
+    "realisator": "James Gray",
+    "genre": "Drame",
+    "actor1": "Mark Wahlberg",
+    "actor2": "Joaquin Phoenix",
+    "releaseDate": 2000,
+    "length": "1h55"
+  },
+  {
+    "title": "Thirst",
+    "realisator": "Park Chan-Wook",
+    "genre": "Drame",
+    "actor1": "Kang-ho Song",
+    "actor2": "",
+    "releaseDate": 2009,
+    "length": "2h13"
+  },
+  {
+    "title": "Titanic",
+    "realisator": "James Cameron",
+    "genre": "Romance",
+    "actor1": "Leonardo Di Caprio",
+    "actor2": "Kate Winslet",
+    "releaseDate": 1998,
+    "length": "3h14"
+  },
+  {
+    "title": "Tokyo Godfathers",
+    "realisator": "Satoshi Kon",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2003,
+    "length": "1h32"
+  },
+  {
+    "title": "Tonnerre sous les tropiques",
+    "realisator": "Ben Stiller",
+    "genre": "Comédie",
+    "actor1": "Ben Stiller",
+    "actor2": "Jack Black",
+    "releaseDate": 2008,
+    "length": "1h48"
+  },
+  {
+    "title": "Tootsie",
+    "realisator": "Sydney Pollack",
+    "genre": "Comédie",
+    "actor1": "Dustin Hoffman",
+    "actor2": "Jessica Lange",
+    "releaseDate": 1982,
+    "length": "1h57"
+  },
+  {
+    "title": "Top Hat",
+    "realisator": "Mark Sandrich",
+    "genre": "Comédie Musicale",
+    "actor1": "Fred Astaire",
+    "actor2": "Ginger Rogers",
+    "releaseDate": 1935,
+    "length": "1h41"
+  },
+  {
+    "title": "Tout le monde dit I Love you",
+    "realisator": "Woody Allen",
+    "genre": "Comédie Musicale",
+    "actor1": "Edward Norton",
+    "actor2": "Julia Roberts",
+    "releaseDate": 1997,
+    "length": "1h41"
+  },
+  {
+    "title": "Toy Story 1, 2 & 3",
+    "realisator": "John Lasseter",
+    "genre": "Film d'animation Pixar",
+    "actor1": "Jean-Philippe Puymartin",
+    "actor2": "Richard Darbois",
+    "releaseDate": 1995,
+    "length": "1h17"
+  },
+  {
+    "title": "Trainspotting",
+    "realisator": "Danny Boyle",
+    "genre": "Comédie",
+    "actor1": "Ewan McGregor",
+    "actor2": "",
+    "releaseDate": 1996,
+    "length": "1h33"
+  },
+  {
+    "title": "Trois enterrements",
+    "realisator": "Tommy Lee Jones",
+    "genre": "Western",
+    "actor1": "Tommy Lee Jones",
+    "actor2": "",
+    "releaseDate": 2005,
+    "length": "2h"
+  },
+  {
+    "title": "True Romance",
+    "realisator": "Tony Scott",
+    "genre": "Action",
+    "actor1": "Christian Slater",
+    "actor2": "Patricia Arquette",
+    "releaseDate": 1993,
+    "length": "2h"
+  },
+  {
+    "title": "Two lovers",
+    "realisator": "James Gray",
+    "genre": "Drame",
+    "actor1": "Joaquin Phoenix",
+    "actor2": "Gwyneth Paltrow",
+    "releaseDate": 2008,
+    "length": "1h50"
+  },
+  {
+    "title": "Un américain à Paris",
+    "realisator": "Vincente Minnelli",
+    "genre": "Comédie Musicale",
+    "actor1": "Gene Kelly",
+    "actor2": "Leslie Caron",
+    "releaseDate": 1951,
+    "length": "1h53"
+  },
+  {
+    "title": "Underground",
+    "realisator": "Emir Kusturica",
+    "genre": "Comédie dramatique",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1995,
+    "length": "2h47"
+  },
+  {
+    "title": "Usual Suspects",
+    "realisator": "Bryan Singer",
+    "genre": "Thriller",
+    "actor1": "Gabriel Byrne",
+    "actor2": "Kevin Spacey",
+    "releaseDate": 1995,
+    "length": "1h46"
+  },
+  {
+    "title": "Vanilla Sky",
+    "realisator": "Cameron Crowe",
+    "genre": "Thriller",
+    "actor1": "Tom Cruise",
+    "actor2": "Penélope Cruz",
+    "releaseDate": 2002,
+    "length": "2h15"
+  },
+  {
+    "title": "Velvet Goldmine",
+    "realisator": "Todd Haynes",
+    "genre": "Drame",
+    "actor1": "Christian Bale",
+    "actor2": "Jonathan Rhys Meyers",
+    "releaseDate": 1998,
+    "length": "2h"
+  },
+  {
+    "title": "Very Bad Trip",
+    "realisator": "Todd Philipps",
+    "genre": "Comédie",
+    "actor1": "Bradley Cooper",
+    "actor2": "Zach Galifianakis",
+    "releaseDate": 2009,
+    "length": "1h30"
+  },
+  {
+    "title": "Vice Versa",
+    "realisator": "Pete Docter",
+    "genre": "Film d'animation Pixar",
+    "actor1": "Charlotte Le Bon",
+    "actor2": "Marilou Berry",
+    "releaseDate": 2015,
+    "length": "1h34"
+  },
+  {
+    "title": "Vicky Christina Barcelona",
+    "realisator": "Woody Allen",
+    "genre": "Comédie",
+    "actor1": "Scarlett Johansson",
+    "actor2": "Rebecca Hall",
+    "releaseDate": 2008,
+    "length": "1h37"
+  },
+  {
+    "title": "Virgin Suicides",
+    "realisator": "Sofia Coppola",
+    "genre": "Drame",
+    "actor1": "Kirsten Dunst",
+    "actor2": "James Woods",
+    "releaseDate": 1999,
+    "length": "1h36"
+  },
+  {
+    "title": "V pour Vendetta",
+    "realisator": "James McTeigue",
+    "genre": "Action",
+    "actor1": "Hugo Weaving",
+    "actor2": "Natalie Portman",
+    "releaseDate": 2006,
+    "length": "2h10"
+  },
+  {
+    "title": "Vol au-dessus d'un nid de coucou",
+    "realisator": "Milos Forman",
+    "genre": "Drame",
+    "actor1": "Jack Nicholson",
+    "actor2": "",
+    "releaseDate": 1975,
+    "length": "2h09"
+  },
+  {
+    "title": "Volver",
+    "realisator": "Pedro Almodóvar",
+    "genre": "Drame",
+    "actor1": "Penélope Cruz",
+    "actor2": "",
+    "releaseDate": 2005,
+    "length": "2h01"
+  },
+  {
+    "title": "Voyage au bout de l'enfer",
+    "realisator": "Michael Cimino",
+    "genre": "Drame",
+    "actor1": "Robert De Niro",
+    "actor2": "Christopher Walken",
+    "releaseDate": 1979,
+    "length": "3h03"
+  },
+  {
+    "title": "Walk the line",
+    "realisator": "James Mangold",
+    "genre": "Biopic",
+    "actor1": "Joaquin Phoenix",
+    "actor2": "Reese Witherspoon",
+    "releaseDate": 2006,
+    "length": "2h17"
+  },
+  {
+    "title": "Walkyrie",
+    "realisator": "Bryan Singer",
+    "genre": "Historique",
+    "actor1": "Tom Cruise",
+    "actor2": "Carice Van Houten",
+    "releaseDate": 2009,
+    "length": "1h50"
+  },
+  {
+    "title": "WALL-E",
+    "realisator": "Andrew Stanton",
+    "genre": "Film d'animation Pixar",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2008,
+    "length": "1h37"
+  },
+  {
+    "title": "Warrior",
+    "realisator": "Gavin O'Connor",
+    "genre": "Action",
+    "actor1": "Joel Edgerton",
+    "actor2": "Tom Hardy",
+    "releaseDate": 2011,
+    "length": "2h20"
+  },
+  {
+    "title": "Watchmen",
+    "realisator": "Zack Snyder",
+    "genre": "Super Héros",
+    "actor1": "Patrick Wilson",
+    "actor2": "Malin Akerman",
+    "releaseDate": 2009,
+    "length": "2h42"
+  },
+  {
+    "title": "West Side Story",
+    "realisator": "Robert Wise / Jerome Robbins",
+    "genre": "Comédie Musicale",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1960,
+    "length": "2h31"
+  },
+  {
+    "title": "Whatever Works",
+    "realisator": "Woody Allen",
+    "genre": "Comédie",
+    "actor1": "Larry David",
+    "actor2": "Evan Rachel Wood",
+    "releaseDate": 2009,
+    "length": "1h32"
+  },
+  {
+    "title": "Whiplash",
+    "realisator": "Damien Chazelle",
+    "genre": "Musique",
+    "actor1": "Miles Teller",
+    "actor2": "J.K. Simmons",
+    "releaseDate": 2014,
+    "length": "1h47"
+  },
+  {
+    "title": "Will Hunting",
+    "realisator": "Gus Van Sant",
+    "genre": "Drame",
+    "actor1": "Matt Damon",
+    "actor2": "Robin Williams",
+    "releaseDate": 1997,
+    "length": "2h06"
+  },
+  {
+    "title": "Wonderful Days",
+    "realisator": "Kim Moon-Saeng",
+    "genre": "Dessin Animé",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2004,
+    "length": "1h27"
+  },
+  {
+    "title": "You don't know Jack",
+    "realisator": "Barry Levinson",
+    "genre": "Biopic",
+    "actor1": "Al Pacino",
+    "actor2": "John Goodman",
+    "releaseDate": 2011,
+    "length": "2h14"
+  },
+  {
+    "title": "Zatoichi",
+    "realisator": "Takeshi Kitano",
+    "genre": "Action",
+    "actor1": "Takeshi Kitano",
+    "actor2": "",
+    "releaseDate": 2003,
+    "length": "1h56"
+  },
+  {
+    "title": "Zero Dark Thirty",
+    "realisator": "Kathryn Bigelow",
+    "genre": "Drame",
+    "actor1": "Joel Edgerton",
+    "actor2": "Jessica Chastain",
+    "releaseDate": 2012,
+    "length": "2h29"
+  },
+  {
+    "title": "Zodiac",
+    "realisator": "David Fincher",
+    "genre": "Thriller",
+    "actor1": "Jake Gyllenhaal",
+    "actor2": "Mark Ruffalo",
+    "releaseDate": 2007,
+    "length": "2h36"
+  },
+  {
+    "title": "Il était une fois à Hollywood",
+    "realisator": "Quentin Tarantino",
+    "genre": "Comédie dramatique",
+    "actor1": "Leonardo DiCaprio",
+    "actor2": "Brad Pitt",
+    "releaseDate": 2019,
+    "length": "161m"
+  },
+  {
+    "title": "Jackie Brown",
+    "realisator": "Quentin Tarantino",
+    "genre": "Thriller",
+    "actor1": "Pam Grier",
+    "actor2": "Samuel L. Jackson",
+    "releaseDate": 1997,
+    "length": "154m"
+  },
+  {
+    "title": "Your Name",
+    "realisator": "Makoto Shinkai",
+    "genre": "Film d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2016,
+    "length": "107m"
+  },
+  {
+    "title": "Premier Contact",
+    "realisator": "Denis Villeneuve",
+    "genre": "Science-fiction",
+    "actor1": "Amy Adams",
+    "actor2": "Jeremy Renner",
+    "releaseDate": 2016,
+    "length": "111m"
+  },
+  {
+    "title": "Les 8 Salopards",
+    "realisator": "Quentin Tarantino",
+    "genre": "Western",
+    "actor1": "Samuel L. Jackson",
+    "actor2": "Kurt Russell",
+    "releaseDate": 2015,
+    "length": "167m"
+  },
+  {
+    "title": "Weathering With You",
+    "realisator": "Makoto Shinkai",
+    "genre": "Film d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2019,
+    "length": "112m"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "realisator": "Quentin Tarantino",
+    "genre": "Guerre",
+    "actor1": "Brad Pitt",
+    "actor2": "Christoph Waltz",
+    "releaseDate": 2009,
+    "length": "153m"
+  },
+  {
+    "title": "8 femmes",
+    "realisator": "François Ozon",
+    "genre": "Comédie Musicale",
+    "actor1": "Danielle Darrieux",
+    "actor2": "Catherine Deneuve",
+    "releaseDate": 2002,
+    "length": "111m"
+  },
+  {
+    "title": "Les Oiseaux",
+    "realisator": "Alfred Hitchcock",
+    "genre": "Thriller",
+    "actor1": "Tippi Hedren",
+    "actor2": "Rod Taylor",
+    "releaseDate": 1963,
+    "length": "120m"
+  },
+  {
+    "title": "Jack et la mécanique du coeur",
+    "realisator": "Mathias Malzieu / Stéphane Berla",
+    "genre": "Film d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2014,
+    "length": "90m"
+  },
+  {
+    "title": "Dora et la Cité perdue",
+    "realisator": "James Bobin",
+    "genre": "Aventure",
+    "actor1": "Isabela Moner",
+    "actor2": "Eva Longoria",
+    "releaseDate": 2019,
+    "length": "102m"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "realisator": "Denis Villeneuve",
+    "genre": "Science-fiction",
+    "actor1": "Ryan Gosling",
+    "actor2": "Harrison Ford",
+    "releaseDate": 2017,
+    "length": "163m"
+  },
+  {
+    "title": "The Irishman",
+    "realisator": "Martin Scorsese",
+    "genre": "Gangster",
+    "actor1": "Robert De Niro",
+    "actor2": "Al Pacino",
+    "releaseDate": 2019,
+    "length": "210m"
+  },
+  {
+    "title": "La femme d'à côté",
+    "realisator": "François Truffaut",
+    "genre": "Drame",
+    "actor1": "Gérard Depardieu",
+    "actor2": "Fanny Ardant",
+    "releaseDate": 1981,
+    "length": "106m"
+  },
+  {
+    "title": "Gang de Requin",
+    "realisator": "Rob Letterman / Vicky Jenson / Bibo Bergeron",
+    "genre": "Film d'animation DreamWorks",
+    "actor1": "Will Smith",
+    "actor2": "Robert De Niro",
+    "releaseDate": 2004,
+    "length": "90m"
+  },
+  {
+    "title": "Sinbad : La Légende des Sept Mers",
+    "realisator": "Patrick Gilmore/Tim Johnson",
+    "genre": "Film d'animation DreamWorks",
+    "actor1": "Brad Pitt",
+    "actor2": "",
+    "releaseDate": 2003,
+    "length": "86m"
+  },
+  {
+    "title": "Arnaque, Crime et botanique",
+    "realisator": "Guy Ritchie",
+    "genre": "Comédie",
+    "actor1": "Nick Moran",
+    "actor2": "Jason Statham",
+    "releaseDate": 1998,
+    "length": "107m"
+  },
+  {
+    "title": 1917,
+    "realisator": "Sam Mendes",
+    "genre": "Guerre",
+    "actor1": "George MacKay",
+    "actor2": "Dean-Charles Chapman",
+    "releaseDate": 2019,
+    "length": "119m"
+  },
+  {
+    "title": "BlacKkKlansman : J'ai infiltré le Ku Klux Klan",
+    "realisator": "Spike Lee",
+    "genre": "Policier",
+    "actor1": "John David Washington",
+    "actor2": "Adam Driver",
+    "releaseDate": 2018,
+    "length": "135m"
+  },
+  {
+    "title": "Joker",
+    "realisator": "Todd Phillips",
+    "genre": "Thriller",
+    "actor1": "Joaquin Phoenix",
+    "actor2": "Robert De Niro",
+    "releaseDate": 2019,
+    "length": "122m"
+  },
+  {
+    "title": "Melancholia",
+    "realisator": "Lars Von Trier",
+    "genre": "Drame",
+    "actor1": "Kirsten Dunst",
+    "actor2": "Charlotte Gainsbourg",
+    "releaseDate": 2011,
+    "length": "130m"
+  },
+  {
+    "title": "King Kong",
+    "realisator": "Peter Jackson",
+    "genre": "Fantastique",
+    "actor1": "Naomi Watts",
+    "actor2": "Jack Black",
+    "releaseDate": 2005,
+    "length": "187m"
+  },
+  {
+    "title": "The Revenant",
+    "realisator": "Alejandro González Iñárritu",
+    "genre": "Western",
+    "actor1": "Leonardo DiCaprio",
+    "actor2": "Tom Hardy",
+    "releaseDate": 2015,
+    "length": "156m"
+  },
+  {
+    "title": "The Blues Brothers",
+    "realisator": "John Landis",
+    "genre": "Comédie Musicale",
+    "actor1": "John Belushi",
+    "actor2": "Dan Aykroyd",
+    "releaseDate": 1980,
+    "length": "133m"
+  },
+  {
+    "title": "Shape of Water",
+    "realisator": "Guillermo del Toro",
+    "genre": "Fantastique",
+    "actor1": "Sally Hawkins",
+    "actor2": "Doug Jones",
+    "releaseDate": 2017,
+    "length": "123m"
+  },
+  {
+    "title": "Dunkerque",
+    "realisator": "Christopher Nolan",
+    "genre": "Guerre",
+    "actor1": "Fionn Whitehead",
+    "actor2": "Tom Glynn-Carney",
+    "releaseDate": 2017,
+    "length": "107m"
+  },
+  {
+    "title": "Tenet",
+    "realisator": "Christopher Nolan",
+    "genre": "Science-fiction",
+    "actor1": "John David Washington",
+    "actor2": "Robert Pattinson",
+    "releaseDate": 2020,
+    "length": "150m"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "realisator": "George Miller",
+    "genre": "Science-fiction",
+    "actor1": "Tom Hardy",
+    "actor2": "Charlize Theron",
+    "releaseDate": 2015,
+    "length": "120m"
+  },
+  {
+    "title": "La La Land",
+    "realisator": "Damien Chazelle",
+    "genre": "Comédie Musicale",
+    "actor1": "Ryan Gosling",
+    "actor2": "Emma Stone",
+    "releaseDate": 2016,
+    "length": "128m"
+  },
+  {
+    "title": "Ave, César !",
+    "realisator": "Joel Coen & Ethan Coen",
+    "genre": "Drame",
+    "actor1": "George Clooney",
+    "actor2": "Josh Brolin",
+    "releaseDate": 2016,
+    "length": "106m"
+  },
+  {
+    "title": "E.T., l'extra-terrestre",
+    "realisator": "Steven Spielberg",
+    "genre": "Science-fiction",
+    "actor1": "Pat Welsh",
+    "actor2": "Henry Thomas",
+    "releaseDate": 1982,
+    "length": "115m"
+  },
+  {
+    "title": "Hard Day",
+    "realisator": "Kim Seong-hoon",
+    "genre": "Thriller",
+    "actor1": "Lee Sun Gyun",
+    "actor2": "Jo Jin?woong",
+    "releaseDate": 2014,
+    "length": "111m"
+  },
+  {
+    "title": "Les Bronzés font du ski",
+    "realisator": "Patrice Leconte",
+    "genre": "Comédie",
+    "actor1": "Michel Blanc",
+    "actor2": "Christian Clavier",
+    "releaseDate": 1979,
+    "length": "83m"
+  },
+  {
+    "title": "American Psycho",
+    "realisator": "Mary Harron",
+    "genre": "Thriller",
+    "actor1": "Christian Bale",
+    "actor2": "Justin Theroux",
+    "releaseDate": 2000,
+    "length": "101m"
+  },
+  {
+    "title": "Snowden",
+    "realisator": "Oliver Stone",
+    "genre": "Biopic",
+    "actor1": "Joseph Gordon-Levitt",
+    "actor2": "Shailene Woodley",
+    "releaseDate": 2016,
+    "length": "134m"
+  },
+  {
+    "title": "Silent Voice",
+    "realisator": "Naoko Yamada",
+    "genre": "Drame",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2016,
+    "length": "129m"
+  },
+  {
+    "title": "Le Chant du Loup",
+    "realisator": "Antonin Beaudry",
+    "genre": "Guerre",
+    "actor1": "François Civil",
+    "actor2": "Omar Sy",
+    "releaseDate": 2019,
+    "length": "115m"
+  },
+  {
+    "title": "Steve Jobs",
+    "realisator": "Danny Boyle",
+    "genre": "Biopic",
+    "actor1": "Michael Fassbender",
+    "actor2": "Kate Winslet",
+    "releaseDate": 2015,
+    "length": "122m"
+  },
+  {
+    "title": "Madagascar",
+    "realisator": "Eric Darnell / Tom McGrath",
+    "genre": "Film d'animation DreamWorks",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2005,
+    "length": "86m"
+  },
+  {
+    "title": "Mank",
+    "realisator": "David Fincher",
+    "genre": "Biopic",
+    "actor1": "Gary Oldman",
+    "actor2": "Amanda Seyfreid",
+    "releaseDate": 2020,
+    "length": "131m"
+  },
+  {
+    "title": "Le Dernier Pub avant la fin du monde",
+    "realisator": "Edgar Wrigth",
+    "genre": "Comédie",
+    "actor1": "Simon Pegg",
+    "actor2": "Nick Frost",
+    "releaseDate": 2013,
+    "length": "109m"
+  },
+  {
+    "title": "Scott Pilgrim",
+    "realisator": "Edgar Wrigth",
+    "genre": "Comédie",
+    "actor1": "Michael Cera",
+    "actor2": "Mary Elizabeth Winstead",
+    "releaseDate": 2010,
+    "length": "112m"
+  },
+  {
+    "title": "Les Triplettes de Belleville",
+    "realisator": "Sylvain Chomet",
+    "genre": "Film d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2003,
+    "length": "78m"
+  },
+  {
+    "title": "Soul",
+    "realisator": "Peter Docter",
+    "genre": "Film d'animation Pixar",
+    "actor1": "Jamie Fox",
+    "actor2": "Tina Fey",
+    "releaseDate": 2020,
+    "length": "100m"
+  },
+  {
+    "title": "La Princesse et la Grenouille",
+    "realisator": "Ron Clements & John Musker",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2009,
+    "length": "97m"
+  },
+  {
+    "title": "Frère des ours",
+    "realisator": "Robert Walker & Aaron Blaise",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2003,
+    "length": "85m"
+  },
+  {
+    "title": "Mulan",
+    "realisator": "Barry Cook & Tony Bancroft",
+    "genre": "Disney",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 1998,
+    "length": "88m"
+  },
+  {
+    "title": "Rebelle",
+    "realisator": "Mark Andrews & Brenda Chapman",
+    "genre": "Film d'animation Pixar",
+    "actor1": "Kelly Macdonald",
+    "actor2": "Billy Connolly",
+    "releaseDate": 2012,
+    "length": "93m"
+  },
+  {
+    "title": "Coco",
+    "realisator": "Lee Unkrich & Adrian Molina",
+    "genre": "Film d'animation Pixar",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2017,
+    "length": "105m"
+  },
+  {
+    "title": "Snowpiercer",
+    "realisator": "Bong Joon-ho",
+    "genre": "Science-fiction",
+    "actor1": "Chris Evans",
+    "actor2": "Song Kang-ho",
+    "releaseDate": 2013,
+    "length": "126m"
+  },
+  {
+    "title": "The Shape of Water",
+    "realisator": "Guillermo del Toro",
+    "genre": "Fantastique",
+    "actor1": "Sally Hawkins",
+    "actor2": "Doug Jones",
+    "releaseDate": 2017,
+    "length": "123m"
+  },
+  {
+    "title": "Split",
+    "realisator": "M.Night Shyamalan",
+    "genre": "Horreur Psychologique",
+    "actor1": "James McAvoy",
+    "actor2": "Anya Taylor-Joy",
+    "releaseDate": 2017,
+    "length": "117m"
+  },
+  {
+    "title": "Glass",
+    "realisator": "M.Night Shyamalan",
+    "genre": "Thriller / Fantastique",
+    "actor1": "Bruces Willis",
+    "actor2": "Samuel L. Jackson",
+    "releaseDate": 2019,
+    "length": "129m"
+  },
+  {
+    "title": "Raya et le Dernier Dragon",
+    "realisator": "Don Hall / Carlos Lopez Estrada",
+    "genre": "Disney",
+    "actor1": "Kelly Marie Tran",
+    "actor2": "Awkwafina",
+    "releaseDate": 2021,
+    "length": "90m"
+  },
+  {
+    "title": "Une Affaire de détails",
+    "realisator": "John Lee Hancock",
+    "genre": "Thriller",
+    "actor1": "Denzel Washington",
+    "actor2": "Rami Malek",
+    "releaseDate": 2021,
+    "length": "127m"
+  },
+  {
+    "title": "The Lobster",
+    "realisator": "Yorgos Lanthimos",
+    "genre": "Antipation",
+    "actor1": "Collin Farrel",
+    "actor2": "Léa Seydoux",
+    "releaseDate": 2015,
+    "length": "118m"
+  },
+  {
+    "title": "Avatar",
+    "realisator": "James Cameron",
+    "genre": "Science-fiction",
+    "actor1": "Sam Worthington",
+    "actor2": "Zoe Saldana",
+    "releaseDate": 2009,
+    "length": "178m"
+  },
+  {
+    "title": "Godzilla",
+    "realisator": "Gareth Edwards",
+    "genre": "Science-fiction",
+    "actor1": "Aaron Taylor-Johnson",
+    "actor2": "Ken Watanabe",
+    "releaseDate": 2014,
+    "length": "123m"
+  },
+  {
+    "title": "Kong: Skull Island",
+    "realisator": "Jordan Vogt-Robert",
+    "genre": "Fantastique",
+    "actor1": "Tom Hiddleston",
+    "actor2": "Samuel L. Jackson",
+    "releaseDate": 2017,
+    "length": "118m"
+  },
+  {
+    "title": "Godzilla 2 : Roi des monstres",
+    "realisator": "Michael Dougherty",
+    "genre": "Science-fiction",
+    "actor1": "Kyle Chandler",
+    "actor2": "Vera Farmiga",
+    "releaseDate": 2019,
+    "length": "132m"
+  },
+  {
+    "title": "Godzilla vs. Kong",
+    "realisator": "Adam Wingard",
+    "genre": "Science-fiction",
+    "actor1": "Alexander Skarsgård",
+    "actor2": "Millie Bobby Brown",
+    "releaseDate": 2021,
+    "length": "113m"
+  },
+  {
+    "title": "Millénium : Les Hommes qui n'aimaient pas les femmes",
+    "realisator": "David Fincher",
+    "genre": "Thriller",
+    "actor1": "Daniel Craig",
+    "actor2": "Rooney Mara",
+    "releaseDate": 2011,
+    "length": "158m"
+  },
+  {
+    "title": "Les Aventures de Tintin : Le Secret de la Licorne",
+    "realisator": "Steven Spielberg",
+    "genre": "Aventure",
+    "actor1": "Daniel Craig",
+    "actor2": "Jamie Bell",
+    "releaseDate": 2011,
+    "length": "107m"
+  },
+  {
+    "title": "Borat, nouvelle mission filmée",
+    "realisator": "Jason Woliner",
+    "genre": "Comédie",
+    "actor1": "Sacha Baron Cohen",
+    "actor2": "Maria Bakalova",
+    "releaseDate": 2020,
+    "length": "95m"
+  },
+  {
+    "title": "Le Pacte des loups",
+    "realisator": "Christophe Gans",
+    "genre": "Aventure / Horreur",
+    "actor1": "Vincent Cassel",
+    "actor2": "Samuel Le Bihan",
+    "releaseDate": 2001,
+    "length": "142m"
+  },
+  {
+    "title": "Independance Day",
+    "realisator": "Roland Emmerich",
+    "genre": "Science-fiction",
+    "actor1": "Will Smith",
+    "actor2": "Bill Pullman",
+    "releaseDate": 1996,
+    "length": "145m"
+  },
+  {
+    "title": "Venom",
+    "realisator": "Ruben Fleischer",
+    "genre": "Super Héros",
+    "actor1": "Tom Hardy",
+    "actor2": "Michelle Williams",
+    "releaseDate": 2018,
+    "length": "112m"
+  },
+  {
+    "title": "Deadpool",
+    "realisator": "Tim Miller",
+    "genre": "Super Héros",
+    "actor1": "Ryan Reynolds",
+    "actor2": "Morena Baccarin",
+    "releaseDate": 2016,
+    "length": "108m"
+  },
+  {
+    "title": "Le Daim",
+    "realisator": "Quentin Dupieux",
+    "genre": "Comédie / Thriller",
+    "actor1": "Jean Dujardin",
+    "actor2": "Adèle Haenel",
+    "releaseDate": 2019,
+    "length": "77m"
+  },
+  {
+    "title": "Mandibules",
+    "realisator": "Quentin Dupieux",
+    "genre": "Comédie",
+    "actor1": "Grégoire Ludig",
+    "actor2": "Dabvid Marsais",
+    "releaseDate": 2020,
+    "length": "77m"
+  },
+  {
+    "title": "Présidents",
+    "realisator": "Anne Fontaine",
+    "genre": "Comédie",
+    "actor1": "Jean Dujardin",
+    "actor2": "Grégory Gadebois",
+    "releaseDate": 2021,
+    "length": "100m"
+  },
+  {
+    "title": "Kaamelott Premier Volet",
+    "realisator": "Alexandre Astier",
+    "genre": "Comédie / Heroic Fantasy",
+    "actor1": "Alexandre Astier",
+    "actor2": "Franck Pitiot",
+    "releaseDate": 2021,
+    "length": "120m"
+  },
+  {
+    "title": "Le Dîner de cons",
+    "realisator": "Francis Veber",
+    "genre": "Comédie",
+    "actor1": "Jacques Villeret",
+    "actor2": "Thierry Lhermitte",
+    "releaseDate": 1998,
+    "length": "77m"
+  },
+  {
+    "title": "Cuisine et Dépendances",
+    "realisator": "Philippe Muyl",
+    "genre": "Comédie",
+    "actor1": "Agnès Jaoui",
+    "actor2": "Jean-Pierre Bacri",
+    "releaseDate": 1993,
+    "length": "96m"
+  },
+  {
+    "title": "Au poste !",
+    "realisator": "Quentin Dupieux",
+    "genre": "Comédie",
+    "actor1": "Benoît Poelvoorde",
+    "actor2": "Grégoire Ludig",
+    "releaseDate": 2018,
+    "length": "72m"
+  },
+  {
+    "title": "OSS 117 : Alerte Route en Afrique Noire",
+    "realisator": "Nicolas Bedos",
+    "genre": "Comédie d'espionnage",
+    "actor1": "Jean Dujardin",
+    "actor2": "Pierre Niney",
+    "releaseDate": 2021,
+    "length": "116m"
+  },
+  {
+    "title": "Un moment d'égarement",
+    "realisator": "Jean-François Richet",
+    "genre": "Comédie",
+    "actor1": "Vincent Cassel",
+    "actor2": "François Cluzet",
+    "releaseDate": 2015,
+    "length": "105m"
+  },
+  {
+    "title": "Dark Waters",
+    "realisator": "Todd Haynes",
+    "genre": "Drame Juridique",
+    "actor1": "Mark Ruffalo",
+    "actor2": "Anne Hathaway",
+    "releaseDate": 2019,
+    "length": "126m"
+  },
+  {
+    "title": "Pop Redemption",
+    "realisator": "Martin Le Gall",
+    "genre": "Comédie",
+    "actor1": "Julien Doré",
+    "actor2": "Alexandre Astier",
+    "releaseDate": 2013,
+    "length": "94m"
+  },
+  {
+    "title": "Santa & Cie",
+    "realisator": "Alain Chabat",
+    "genre": "Comédie",
+    "actor1": "Alain Chabat",
+    "actor2": "Pio Marmaï",
+    "releaseDate": 2017,
+    "length": "100m"
+  },
+  {
+    "title": "Réalité",
+    "realisator": "Quentin Dupieux",
+    "genre": "Comédie",
+    "actor1": "Alain Chabat",
+    "actor2": "Jonathan Lambert",
+    "releaseDate": 2014,
+    "length": "87m"
+  },
+  {
+    "title": "The Witcher : Nightmare of the Wolf",
+    "realisator": "Kwang Il Han",
+    "genre": "Film d'animation",
+    "actor1": "Theo James",
+    "actor2": "Lara Pulver",
+    "releaseDate": 2021,
+    "length": "81m"
+  },
+  {
+    "title": "Dune",
+    "realisator": "Denis Villeneuve",
+    "genre": "Science-fiction",
+    "actor1": "Timothée Chalamet",
+    "actor2": "Rebecca Ferguson",
+    "releaseDate": 2021,
+    "length": "155m"
+  },
+  {
+    "title": "Les Infiltrés",
+    "realisator": "Martin Scorsese",
+    "genre": "Policier",
+    "actor1": "Leonardo DiCaprio",
+    "actor2": "Matt Damon",
+    "releaseDate": 2006,
+    "length": "150m"
+  },
+  {
+    "title": "The French Dispatch",
+    "realisator": "Wes Anderson",
+    "genre": "Comédie dramatique",
+    "actor1": "Benicio del Toro",
+    "actor2": "Léa Seydoux",
+    "releaseDate": 2021,
+    "length": "103m"
+  },
+  {
+    "title": "Pirates des Caraïbes 2",
+    "realisator": "Gore Verbinski",
+    "genre": "Fantastique",
+    "actor1": "Johnny Depp",
+    "actor2": "Orlando Bloom",
+    "releaseDate": 2006,
+    "length": "150m"
+  },
+  {
+    "title": "Pirates des Caraïbes 3",
+    "realisator": "Gore Verbinski",
+    "genre": "Fantastique",
+    "actor1": "Johnny Depp",
+    "actor2": "Orlando Bloom",
+    "releaseDate": 2007,
+    "length": "168m"
+  },
+  {
+    "title": "Pirates des Caraïbes 4",
+    "realisator": "Rob Marshall",
+    "genre": "Fantastique",
+    "actor1": "Johnny Depp",
+    "actor2": "Geoggrey Rush",
+    "releaseDate": 2011,
+    "length": "136m"
+  },
+  {
+    "title": "Pirates des Caraïbes 5",
+    "realisator": "Joachim Ronning / Espen Sandberg",
+    "genre": "Fantastique",
+    "actor1": "Johnny Depp",
+    "actor2": "Javier Bardem",
+    "releaseDate": 2017,
+    "length": "129m"
+  },
+  {
+    "title": "The Green Knight",
+    "realisator": "David Lowery",
+    "genre": "Fantastique",
+    "actor1": "Dev Patel",
+    "actor2": "Alicia Vikander",
+    "releaseDate": 2021,
+    "length": "130m"
+  },
+  {
+    "title": "Old",
+    "realisator": "M.Night Shyamalan",
+    "genre": "Thriller",
+    "actor1": "Gael Garcia Bernal",
+    "actor2": "Vicky Krieps",
+    "releaseDate": 2021,
+    "length": "108m"
+  },
+  {
+    "title": "Le Peuple Loup",
+    "realisator": "Tomm More / Ross Stewart",
+    "genre": "Film d'animation",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2020,
+    "length": "103m"
+  },
+  {
+    "title": "Blow Out",
+    "realisator": "Brian de Palma",
+    "genre": "Thriller",
+    "actor1": "John Travolta",
+    "actor2": "Nancy Allen",
+    "releaseDate": 1981,
+    "length": "107m"
+  },
+  {
+    "title": "Astérix : Le Secret de la potion magique",
+    "realisator": "Alexandre Astier",
+    "genre": "Film d'animation",
+    "actor1": "Christian Clavier",
+    "actor2": "Guillaume Briat",
+    "releaseDate": 2018,
+    "length": "85m"
+  },
+  {
+    "title": "Malcolm et Marie",
+    "realisator": "Sam Levinson",
+    "genre": "Drame",
+    "actor1": "John David Washington",
+    "actor2": "Zendaya",
+    "releaseDate": 2021,
+    "length": "106m"
+  },
+  {
+    "title": "Adieu les Cons",
+    "realisator": "Albert Dupontel",
+    "genre": "Comédie Dramatique",
+    "actor1": "Virginie Efira",
+    "actor2": "Albert Dupontel",
+    "releaseDate": 2020,
+    "length": "87m"
+  },
+  {
+    "title": "Jodorowsky's Dune",
+    "realisator": "Frank Pavich",
+    "genre": "Documentaire",
+    "actor1": "Alejandro Jodorowsky",
+    "actor2": "Michel Seydoux",
+    "releaseDate": 2013,
+    "length": "87m"
+  },
+  {
+    "title": "Les Vedettes",
+    "realisator": "Jonathan Barré",
+    "genre": "Comédie",
+    "actor1": "Grégoire Ludig",
+    "actor2": "David Marsais",
+    "releaseDate": 2022,
+    "length": "102m"
+  },
+  {
+    "title": "The Batman",
+    "realisator": "Matt Reeves",
+    "genre": "Super Héros",
+    "actor1": "Robert Pattinson",
+    "actor2": "Zoë Kravitz",
+    "releaseDate": 2022,
+    "length": "175m"
+  },
+  {
+    "title": "La Ballade de Buster Scruggs",
+    "realisator": "Joel Coen & Ethan Coen",
+    "genre": "Western",
+    "actor1": "Tim Blake Nelson",
+    "actor2": "Brendan Gleeson",
+    "releaseDate": 2018,
+    "length": "132m"
+  },
+  {
+    "title": "Alerte Rouge",
+    "realisator": "Domee Shi",
+    "genre": "Film d'animation Pixar",
+    "actor1": "Rosalie Chiang",
+    "actor2": "Sandra Oh",
+    "releaseDate": 2022,
+    "length": "100m"
+  },
+  {
+    "title": "Drunk",
+    "realisator": "Thomas Vinterberg",
+    "genre": "Comédie Dramatique",
+    "actor1": "Mads Mikkelsen",
+    "actor2": "Thomas Bo Larsen",
+    "releaseDate": 2020,
+    "length": "115m"
+  },
+  {
+    "title": "Don't Look Up",
+    "realisator": "Adam McKay",
+    "genre": "Comédie Dramatique",
+    "actor1": "Leonardo DiCaprio",
+    "actor2": "Jennifer Lawrence",
+    "releaseDate": 2021,
+    "length": "143m"
+  },
+  {
+    "title": "Luca",
+    "realisator": "Enrico Casarosa",
+    "genre": "Film d'animation Pixar",
+    "actor1": "",
+    "actor2": "",
+    "releaseDate": 2021,
+    "length": "96m"
+  },
+  {
+    "title": "Soleil vert",
+    "realisator": "Richard Fleischer",
+    "genre": "Science-fiction",
+    "actor1": "Charlton Heston",
+    "actor2": "Leigh Taylor-Young",
+    "releaseDate": 1973,
+    "length": "93m"
+  },
+  {
+    "title": "Closer",
+    "realisator": "Mike Nichols",
+    "genre": "Comédie Dramatique",
+    "actor1": "Natalie Portman",
+    "actor2": "Jude Law",
+    "releaseDate": 2004,
+    "length": "104m"
+  },
+  {
+    "title": "Incroyable Mais Vrai",
+    "realisator": "Quentin Dupieux",
+    "genre": "Comédie Fantastique",
+    "actor1": "Alain Chabat",
+    "actor2": "Léa Drucker",
+    "releaseDate": 2022,
+    "length": "74min"
+  },
+  {
+    "title": "Decision To Leave",
+    "realisator": "Park Chan-wook",
+    "genre": "Thriller",
+    "actor1": "Tang Wei",
+    "actor2": "Park Hae-il",
+    "releaseDate": 2022,
+    "length": "138m"
+  },
+  {
+    "title": "Bullet Train",
+    "realisator": "David Leitch",
+    "genre": "Action",
+    "actor1": "Brad Pitt",
+    "actor2": "Sandra Bullock",
+    "releaseDate": 2022,
+    "length": "127m"
+  },
+  {
+    "title": "Nope",
+    "realisator": "Jordan Peel",
+    "genre": "Science-fiction Horreur",
+    "actor1": "Daniel Kaluuya",
+    "actor2": "Keke Palmer",
+    "releaseDate": 2022,
+    "length": "135m"
+  },
+  {
+    "title": "Trois Mille ans à t'attendre",
+    "realisator": "George Miller",
+    "genre": "Fantastique / Romance",
+    "actor1": "Idris Elba",
+    "actor2": "Tilda Swinton",
+    "releaseDate": 2022,
+    "length": "108m"
+  },
+  {
+    "title": "Là où chantent les écrevisses",
+    "realisator": "Olivia Newman",
+    "genre": "Thriller",
+    "actor1": "Daisy Edgar-Jones",
+    "actor2": "Taylor John Smith",
+    "releaseDate": 2022,
+    "length": "125m"
+  },
+  {
+    "title": "Coup de théatre",
+    "realisator": "Tom George",
+    "genre": "Comédie Policière",
+    "actor1": "Sam Rockwell",
+    "actor2": "Saoirse Ronan",
+    "releaseDate": 2022,
+    "length": "98m"
+  },
+  {
+    "title": "Le Sens de la Fête",
+    "realisator": "Éric Toledona / Olivier Nakache",
+    "genre": "Comédie Dramatique",
+    "actor1": "Jean-Pierre Bacri",
+    "actor2": "Gilles Lellouche",
+    "releaseDate": 2017,
+    "length": "117m"
+  },
+  {
+    "title": "Black Adam",
+    "realisator": "Jaume Collet-Serra",
+    "genre": "Super Héros",
+    "actor1": "Dwayne Johnson",
+    "actor2": "Aldis Hodge",
+    "releaseDate": 2022,
+    "length": "124m"
+  },
+  {
+    "title": "Les Bad Guys",
+    "realisator": "Pierre Perifel",
+    "genre": "Film d'animation DreamWorks",
+    "actor1": "Sam Rockwell",
+    "actor2": "Marc Maron",
+    "releaseDate": 2022,
+    "length": "100m"
+  },
+  {
+    "title": "Sans Filtre (Triangle of Sadness)",
+    "realisator": "Ruben Östlund",
+    "genre": "Comédie Satirique",
+    "actor1": "Harris Dickinson",
+    "actor2": "Charlbi Dean",
+    "releaseDate": 2022,
+    "length": "149m"
+  },
+  {
+    "title": "Dikkenek",
+    "realisator": "Olivier Van Hoofstadt",
+    "genre": "Comédie",
+    "actor1": "François Damiens",
+    "actor2": "Marion Cotillard",
+    "releaseDate": 2006,
+    "length": "84m"
+  },
+  {
+    "title": "Mascarade",
+    "realisator": "Nicolas Bedos",
+    "genre": "Comédie Dramatique",
+    "actor1": "Pierre Niney",
+    "actor2": "Isabelle Adjani",
+    "releaseDate": 2022,
+    "length": "134m"
+  },
+  {
+    "title": "Amsterdam",
+    "realisator": "David O. Russell",
+    "genre": "Drame",
+    "actor1": "Christian Bale",
+    "actor2": "Margot Robbie",
+    "releaseDate": 2022,
+    "length": "134m"
+  },
+  {
+    "title": "Fumer fait tousser",
+    "realisator": "Quentin Dupieux",
+    "genre": "Comédie",
+    "actor1": "Gilles Lellouche",
+    "actor2": "Vincent Lacoste",
+    "releaseDate": 2022,
+    "length": "80m"
+  },
+  {
+    "title": "Le Chat potté 2 : La Dernière Quête",
+    "realisator": "Joel Crawford / Januel P. Mercado",
+    "genre": "Film d'animation DreamWorks",
+    "actor1": "Antonio Banderas",
+    "actor2": "Salma Hayek",
+    "releaseDate": 2022,
+    "length": "100m"
+  },
+  {
+    "title": "Avatar : La Voie de l'eau",
+    "realisator": "James Cameron",
+    "genre": "Science-fiction",
+    "actor1": "Sam Worthington",
+    "actor2": "Zoe Saldana",
+    "releaseDate": 2022,
+    "length": "192m"
+  },
+  {
+    "title": "Dune",
+    "realisator": "David Lynch",
+    "genre": "Science-fiction",
+    "actor1": "Kyle MacLachlan",
+    "actor2": "Sean Young",
+    "releaseDate": 1984,
+    "length": "137m"
+  },
+  {
+    "title": "The Pale Blue Eye",
+    "realisator": "Scott Cooper",
+    "genre": "Thriller",
+    "actor1": "Christian Bale",
+    "actor2": "Harry Melling",
+    "releaseDate": 2022,
+    "length": "128m"
+  },
+  {
+    "title": "Babylon",
+    "realisator": "Damien Chazelle",
+    "genre": "Comédie Dramatique",
+    "actor1": "Brad Pitt",
+    "actor2": "Margot Robbie",
+    "releaseDate": 2023,
+    "length": "189m"
+  },
+  {
+    "title": "Enemy",
+    "realisator": "Denis Villeneuve",
+    "genre": "Thriller Fantastique",
+    "actor1": "Jake Gyllenhall",
+    "actor2": "Mélanie Laurent",
+    "releaseDate": 2013,
+    "length": "90m"
+  },
+  {
+    "title": "Astérix et Obélix : L'Empire du Milieu",
+    "realisator": "Guillaume Canet",
+    "genre": "Comédie d'aventure",
+    "actor1": "Guillaume Canet",
+    "actor2": "Gilles Lellouche",
+    "releaseDate": 2023,
+    "length": "111m"
+  },
+  {
+    "title": "Zootopie",
+    "realisator": "Byron Howard / Rich Moore / Jared Bush",
+    "genre": "Disney",
+    "actor1": "Ginnifer Goodwin",
+    "actor2": "Jason Bateman",
+    "releaseDate": 2016,
+    "length": "108m"
+  },
+  {
+    "title": "The Fabelmans",
+    "realisator": "Steven Spielberg",
+    "genre": "Drame",
+    "actor1": "Gabriel LaBelle",
+    "actor2": "Paul Dano",
+    "releaseDate": 2023,
+    "length": "151m"
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "realisator": "Danny Boyle",
+    "genre": "Drame",
+    "actor1": "Dev Patel",
+    "actor2": "Freida Pinto",
+    "releaseDate": 2008,
+    "length": "115m"
+  },
+  {
+    "title": "20 ans d'écart",
+    "realisator": "David Moreau",
+    "genre": "Comédie Romantique",
+    "actor1": "Virginie Efira",
+    "actor2": "Pierre Niney",
+    "releaseDate": 2013,
+    "length": "93m"
+  },
+  {
+    "title": "Les Trois Mousquetaires: D'Artagnan",
+    "realisator": "Martin Bourboulon",
+    "genre": "Cape et d'épée",
+    "actor1": "François Civil",
+    "actor2": "Vincent Cassel",
+    "releaseDate": 2023,
+    "length": "121m"
+  },
+  {
+    "title": "Amants",
+    "realisator": "Nicole Garcia",
+    "genre": "Thriller / drame",
+    "actor1": "Stacy Martin",
+    "actor2": "Pierre Niney",
+    "releaseDate": 2021,
+    "length": "1h42"
+  },
+  {
+    "title": "Mon inconnue",
+    "realisator": "Hugo Gélin",
+    "genre": "Comédie",
+    "actor1": "François Civil",
+    "actor2": "Joséphine Japy",
+    "releaseDate": 2019,
+    "length": "1h58"
+  },
+  {
+    "title": "Impitoyable",
+    "realisator": "Clint Eastwood",
+    "genre": "Western",
+    "actor1": "Clint Eastwood",
+    "actor2": "Gene Hackman",
+    "releaseDate": 1992,
+    "length": "131m"
+  },
+  {
+    "title": "Super Mario Bros. le film",
+    "realisator": "Aaron Horvath / Michael Jelenic",
+    "genre": "Film d'animation",
+    "actor1": "Chris Pratt",
+    "actor2": "Jack Black",
+    "releaseDate": 2023,
+    "length": "92m"
+  },
+  {
+    "title": "Donjons et Dragons: L'Honneur des voleurs",
+    "realisator": "Jonathan Goldstein / John Francis Daley",
+    "genre": "Heroic Fantasy",
+    "actor1": "Chris Pine",
+    "actor2": "Michelle Rodriguez",
+    "releaseDate": 2023,
+    "length": "136m"
+  },
+  {
+    "title": "Mémoires d'une Geisha",
+    "realisator": "Rob Marshall",
+    "genre": "Drame",
+    "actor1": "Zhang Ziyi",
+    "actor2": "Suzuka Ohgo",
+    "releaseDate": 2005,
+    "length": "145m"
+  },
+  {
+    "title": "Les gardiens de la galaxie Vol. 3",
+    "realisator": "James Gunn",
+    "genre": "Super Héros",
+    "actor1": "Chris Pratt",
+    "actor2": "Bradley Cooper",
+    "releaseDate": 2023,
+    "length": "150m"
+  },
+  {
+    "title": "About Kim Sohee",
+    "realisator": "July Jung",
+    "genre": "Drame",
+    "actor1": "Kim Si-eun",
+    "actor2": "Bae Doo-na",
+    "releaseDate": 2022,
+    "length": "135m"
+  },
+  {
+    "title": "Vaiana, la Légende du bout du mond",
+    "realisator": "Ron Clements / John Musker / Don Hall / Chris Williams",
+    "genre": "Disney",
+    "actor1": "Auli'i Cravalho",
+    "actor2": "Dwayne Johnson",
+    "releaseDate": 2016,
+    "length": "1h47"
+  },
+  {
+    "title": "Tout ce qui brille",
+    "realisator": "Géraldine Nakache / Hervé Mimran",
+    "genre": "Comédie",
+    "actor1": "Géraldine Nakache",
+    "actor2": "Leïla Bekhti",
+    "releaseDate": 2010,
+    "length": "100m"
+  },
+  {
+    "title": "Omar la fraise",
+    "realisator": "Elias Belkeddar",
+    "genre": "Comédie Dramatique",
+    "actor1": "Reda Kateb",
+    "actor2": "Benoît Magimel",
+    "releaseDate": 2023,
+    "length": "100m"
+  },
+  {
+    "title": "Le Samouraï",
+    "realisator": "Jean-Pierre Melville",
+    "genre": "Film Noir",
+    "actor1": "Alain Delon",
+    "actor2": "François Périer",
+    "releaseDate": 1967,
+    "length": "105m"
+  },
+  {
+    "title": "Spider-Man : Across the Spider-Verse",
+    "realisator": "Kemp Powers / Joaquim Dos Santos / Justin K. Thompson",
+    "genre": "Film d'animation",
+    "actor1": "Shameik Moore",
+    "actor2": "Hailee Steinfeld",
+    "releaseDate": 2023,
+    "length": "136m"
+  },
+  {
+    "title": "Second Tour",
+    "realisator": "Albert Dupontel",
+    "genre": "Comédie Dramatique",
+    "actor1": "Albert Dupontel",
+    "actor2": "Cécile de France",
+    "releaseDate": 2023,
+    "length": "1h35"
+  },
+  {
+    "title": "The Strangers",
+    "realisator": "Na Hong-jin",
+    "genre": "Thriller horrifique",
+    "actor1": "Kwak Do-won",
+    "actor2": "Hwang Jeong-min",
+    "releaseDate": 2016,
+    "length": "156m"
+  },
+  {
+    "title": "Transformers 1, 2, 3",
+    "realisator": "Michael Bay",
+    "genre": "Science-fiction",
+    "actor1": "Shia LaBeouf",
+    "actor2": "Megan Fox",
+    "releaseDate": 2007,
+    "length": "144m"
+  },
+  {
+    "title": "Une Année Difficile",
+    "realisator": "Éric Toledano / Olivier Nakache",
+    "genre": "Comédie",
+    "actor1": "Pio Marmaï",
+    "actor2": "Jonathan Cohen",
+    "releaseDate": 2023,
+    "length": "120m"
+  },
+  {
+    "title": "Léon",
+    "realisator": "Luc Besson",
+    "genre": "Drame",
+    "actor1": "Jean Reno",
+    "actor2": "Natalie Portman",
+    "releaseDate": 1994,
+    "length": "110m"
+  },
+  {
+    "title": "Pleasure",
+    "realisator": "Ninja Thyberg",
+    "genre": "Drame (18+)",
+    "actor1": "Sofia Kappel",
+    "actor2": "Zelda Morrison",
+    "releaseDate": 2021,
+    "length": "109m"
+  },
+  {
+    "title": "Barbie",
+    "realisator": "Greta Gerwig",
+    "genre": "Comédie",
+    "actor1": "Margot Robbie",
+    "actor2": "Ryan Gosling",
+    "releaseDate": 2023,
+    "length": "114m"
+  },
+  {
+    "title": "Oppenheimer",
+    "realisator": "Christopher Nolan",
+    "genre": "Drame",
+    "actor1": "Cillian Murphy",
+    "actor2": "Emily Blunt",
+    "releaseDate": 2023,
+    "length": "180m"
+  },
+  {
+    "title": "Bones and All",
+    "realisator": "Luca Guadagnino",
+    "genre": "Road Movie / Horreur",
+    "actor1": "Taylor Russel",
+    "actor2": "Timothée Chalamet",
+    "releaseDate": 2022,
+    "length": "130m"
+  },
+  {
+    "title": "RRR",
+    "realisator": "S.S. Rajamouli",
+    "genre": "Drame",
+    "actor1": "N. T. Rama Rao Jr.",
+    "actor2": "Ram Charan",
+    "releaseDate": 2022,
+    "length": "187m"
+  },
+  {
+    "title": "Nocturnal Animals",
+    "realisator": "Tom Ford",
+    "genre": "Drame",
+    "actor1": "Amy Adams",
+    "actor2": "Jake Gyllenhaal",
+    "releaseDate": 2016,
+    "length": "117m"
+  },
+  {
+    "title": "Beau Is Afraid",
+    "realisator": "Ari Aster",
+    "genre": "Drame / Horreur",
+    "actor1": "Joaquin Phoenix",
+    "actor2": "Nathan Lane",
+    "releaseDate": 2023,
+    "length": "179m"
+  },
+  {
+    "title": "Le Livre des solutions",
+    "realisator": "Michel Gondry",
+    "genre": "Comédie Dramatique",
+    "actor1": "Pierre Niney",
+    "actor2": "Blanche Gardin",
+    "releaseDate": 2023,
+    "length": "102m"
+  },
+  {
+    "title": "JFK",
+    "realisator": "Oliver Stone",
+    "genre": "Drame Historique",
+    "actor1": "Kevin Costner",
+    "actor2": "Tommy Lee Jones",
+    "releaseDate": 1991,
+    "length": "189m"
+  },
+  {
+    "title": "Un homme d'exception",
+    "realisator": "Ron Howard",
+    "genre": "Biopic / Drame",
+    "actor1": "Russel Crowe",
+    "actor2": "Jennifer Connely",
+    "releaseDate": 2001,
+    "length": "135m"
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "realisator": "Martin Scorsese",
+    "genre": "Drame / Policier",
+    "actor1": "Leonardo DiCaprio",
+    "actor2": "Robert De Niro",
+    "releaseDate": 2023,
+    "length": "206m"
+  },
+  {
+    "title": "Suzume",
+    "realisator": "Makoto Shinkai",
+    "genre": "Film d'animation",
+    "actor1": "Nanoka Hara",
+    "actor2": "Hokuto Matsumura",
+    "releaseDate": 2022,
+    "length": "122m"
+  },
+  {
+    "title": "Phantom",
+    "realisator": "Lee Hae-young",
+    "genre": "Action",
+    "actor1": "Sol Kyung-gu",
+    "actor2": "Lee Hanee",
+    "releaseDate": 2023,
+    "length": "133m"
+  },
+  {
+    "title": "Le Procès Goldman",
+    "realisator": "Cédric Kahn",
+    "genre": "Drame / Procès",
+    "actor1": "Arieh Worthalter",
+    "actor2": "Arthur Harari",
+    "releaseDate": 2023,
+    "length": "115m"
+  },
+  {
+    "title": "Le Garçon et le Héron",
+    "realisator": "Hayao Miyazaki",
+    "genre": "Film d'animation",
+    "actor1": "Soma Santoki",
+    "actor2": "Masaki Suda",
+    "releaseDate": 2023,
+    "length": "125m"
+  },
+  {
+    "title": "The Killer",
+    "realisator": "David Fincher",
+    "genre": "Action",
+    "actor1": "Michael Fassbender",
+    "actor2": "Tilda Swinton",
+    "releaseDate": 2023,
+    "length": "118m"
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "realisator": "Gareth Edwards",
+    "genre": "Science-fiction",
+    "actor1": "Filicity Jones",
+    "actor2": "Diego Luna",
+    "releaseDate": 2016,
+    "length": "133m"
+  },
+  {
+    "title": "Hunger Games: La Ballade du serpent et de l'oiseau chanteur",
+    "realisator": "Francis Lawrence",
+    "genre": "Science-fiction",
+    "actor1": "Rachel Zegler",
+    "actor2": "Tom Blyth",
+    "releaseDate": 2023,
+    "length": "157m"
+  },
+  {
+    "title": "Mars Express",
+    "realisator": "Jérémie Périn",
+    "genre": "Film d'animation",
+    "actor1": "Léa Drucker",
+    "actor2": "Daniel Njo Lobé",
+    "releaseDate": 2023,
+    "length": "80m"
+  },
+  {
+    "title": "Élémentaire",
+    "realisator": "Peter Sohn",
+    "genre": "Film d'animation Pixar",
+    "actor1": "Leah Lewis",
+    "actor2": "Mamoudou Athie",
+    "releaseDate": 2023,
+    "length": "109m"
+  },
+  {
+    "title": "La Merveilleuse Histoire de Henry Sugar",
+    "realisator": "Wes Anderson",
+    "genre": "Aventure / Wes Anderson",
+    "actor1": "Benedict Cumberbatch",
+    "actor2": "Ralph Fiennes",
+    "releaseDate": 2023,
+    "length": "37m"
+  },
+  {
+    "title": "Les Trois Mousquetaires : Milady",
+    "realisator": "Martin Bourboulon",
+    "genre": "Aventure",
+    "actor1": "François Civil",
+    "actor2": "Vincent Cassel",
+    "releaseDate": 2023,
+    "length": "115m"
+  },
+  {
+    "title": "Napoléon",
+    "realisator": "Ridley Scott",
+    "genre": "Drame Historique",
+    "actor1": "Joaquin Phoenix",
+    "actor2": "Vanessa Kirby",
+    "releaseDate": 2023,
+    "length": "158m"
+  },
+  {
+    "title": "Anatomie d'une Chute",
+    "realisator": "Justine Triet",
+    "genre": "Drame Policier",
+    "actor1": "Sandra Hüller",
+    "actor2": "Swann Arlaud",
+    "releaseDate": 2023,
+    "length": "150m"
+  },
+  {
+    "title": "First Man",
+    "realisator": "Damien Chazelle",
+    "genre": "Drame Biographique",
+    "actor1": "Ryan Gosling",
+    "actor2": "Claire Foy",
+    "releaseDate": 2018,
+    "length": "141m"
+  },
+  {
+    "title": "Sicario",
+    "realisator": "Denis Villeneuve",
+    "genre": "Drame Policier",
+    "actor1": "Emily Blunt",
+    "actor2": "Benicio del Toro",
+    "releaseDate": 2015,
+    "length": "121m"
+  },
+  {
+    "title": "Migration",
+    "realisator": "Benjamin Renner",
+    "genre": "Film d'animation",
+    "actor1": "Pio Marmaï",
+    "actor2": "Laure Calamy",
+    "releaseDate": 2023,
+    "length": "83m"
+  }
+]
