@@ -1,8 +1,9 @@
-import{ Component, OnInit } from '@angular/core';
+import{ Component, OnInit, Inject, Renderer2 } from '@angular/core';
 import films from '../assets/films.json'
 import ontologyStart from '../assets/ontology.json'
 import { Concept } from './models/concept.model';
 import { Film } from './models/film.model';
+import { DOCUMENT } from '@angular/common';
 
 @Component({
   selector: 'app-root',
@@ -13,43 +14,18 @@ export class AppComponent implements OnInit {
   title = 'films-ontology';
 
   ontology: Concept = ontologyStart;
-  allFilms: Film[] = [];
-  filmsList: Film[] = films;
+  filmsToDisplay: Film[] = [];
+  conceptToDisplay: Concept[] = [];
   inputValue!: string;
 
-  findSubByName(mainConcept: Concept, subConceptName: string) {
-    return mainConcept.subs.find((x: Concept) => x.name === subConceptName);
-  }
-
-
-  getDataOfFilm(film: Film, thing: string): string {
-    if (thing === 'genre') {
-      return film.genre;
-    } else if (thing === 'realisator') {
-      return film.realisator;
-    } else if (thing === 'actor1') {
-      return film.actor1;
-    } else if (thing === 'actor2') {
-      return film.actor2;
-    } else if (thing === 'releaseDecade') {
-      return film.releaseDecade!;
-    } else {
-      return film.length;
-    }
-  }
-
-
-  loadFilmsList() {
-    films.forEach((film: Film) => this.filmsList.push(film));
-  }
-
-  filterFilmsList() {
-    return this.filmsList;
-  }
+  constructor(
+    @Inject(DOCUMENT) private document: Document,
+    private renderer: Renderer2
+  ) {}
 
   ngOnInit(): void {
     // Prepare data ...
-    this.filmsList.forEach((film: Film) => {
+    films.forEach((film: Film) => {
       film.title = film.title.toString();
       film.releaseDecade = film.releaseDate.toString().slice(0, -1) + '0';      
       film.genre = film.genre.split('/')[0];
@@ -73,15 +49,14 @@ export class AppComponent implements OnInit {
       }
     });
 
-    this.allFilms = this.filmsList;
+    this.reloadFilmsList();
 
     let mainConcepts = ['realisator', 'genre', 'actor1', 'actor2', 'releaseDecade', 'length'];
 
     // iterate on each concept for each film.
     mainConcepts.forEach((mainConcept: string) => {
 
-      this.filmsList.forEach((film: Film) => {
-        // this.loadFilmsList();
+      films.forEach((film: Film) => {
         if (this.getDataOfFilm(film, mainConcept)) {
           if (!this.findSubByName(this.findSubByName(this.ontology, mainConcept)!, this.getDataOfFilm(film, mainConcept))) {
             
@@ -106,57 +81,90 @@ export class AppComponent implements OnInit {
     console.log('-------------------')
   }
 
-  onResetFilter() {
-    this.filmsList = [...this.allFilms];
+
+  findSubByName(mainConcept: Concept, subConceptName: string): Concept | undefined {
+    return mainConcept.subs.find((x: Concept) => x.name === subConceptName);
   }
 
-  onGenreClicked(filter: { filterBy: string, value: string }) {
-    this.filmsList = [];
-    this.allFilms.forEach(film => {
+
+  getDataOfFilm(film: Film, thing: string): string {
+    if (thing === 'genre') {
+      return film.genre;
+    } else if (thing === 'realisator') {
+      return film.realisator;
+    } else if (thing === 'actor1') {
+      return film.actor1;
+    } else if (thing === 'actor2') {
+      return film.actor2;
+    } else if (thing === 'releaseDecade') {
+      return film.releaseDecade!;
+    } else {
+      return film.length;
+    }
+  }
+
+
+  reloadFilmsList(): void {
+    this.filmsToDisplay = [...films];
+    this.conceptToDisplay = [];
+  }
+
+
+  onFilterByConcept(filter: { filterBy: string, value: string }): void {
+    this.filmsToDisplay = [];
+    films.forEach((film:Film) => {
 
       switch (filter.filterBy) {
         case 'genre':
-          if (film.genre === filter.value) this.filmsList.push(film); break;
+          if (film.genre === filter.value)
+            this.filmsToDisplay.push(film); break;
         case 'actor1':
-          if (film.actor1 === filter.value || film.actor2 === filter.value) this.filmsList.push(film); break;
+          if (film.actor1 === filter.value || film.actor2 === filter.value)
+            this.filmsToDisplay.push(film); break;
         case 'actor2':
-          if (film.actor1 === filter.value || film.actor2 === filter.value) this.filmsList.push(film); break;
+          if (film.actor1 === filter.value || film.actor2 === filter.value)
+            this.filmsToDisplay.push(film); break;
         case 'releaseDecade':
-          if (film.releaseDecade === filter.value) this.filmsList.push(film); break;
+          if (film.releaseDecade === filter.value)
+            this.filmsToDisplay.push(film); break;
         case 'length':
-          if (film.length === filter.value) this.filmsList.push(film); break;
+          if (film.length === filter.value)
+            this.filmsToDisplay.push(film); break;
         case 'releaseDate':
-            if (film.releaseDate === +filter.value) this.filmsList.push(film); break;
+          if (film.releaseDate === +filter.value)
+            this.filmsToDisplay.push(film); break;
       }
-
     });
   }
 
 
-  onSearch() {
-    let foundConcepts = this.ontologySearch(this.ontology, this.inputValue.toLowerCase());
-    let foundFilms = this.filmsSearch(this.inputValue.toLowerCase()); // this does not work ! TODO
-    console.log(foundConcepts);
-    console.log(foundFilms);
+  onSearch(): void {
+    this.conceptToDisplay = this.ontologySearch(this.ontology, this.inputValue.toLowerCase());
+    this.filmsToDisplay = this.filmsSearch(this.inputValue.toLowerCase());
+    this.renderer.setProperty(this.document.documentElement, 'scrollTop', 0);
   }
 
 
-  checkSimilarity(word1: string, word2: string) {
+  checkSimilarity(word1: string, word2: string): boolean {
     if (word1 === word2 || word1.includes(word2) || word2.includes(word1)) {
       return true;
     }
     return false;
   }
 
-  filmsSearch(value: string) {
-    let films = [];
 
-    this.allFilms.forEach(f => {
+  filmsSearch(value: string): Film[] {
+    let foundFilms: Film[] = [];
+
+    films.forEach((f: Film) => {
       if (this.checkSimilarity(f.title.toLowerCase(), value)) {
-        films.push(f);
+        foundFilms.push(f);
       }
     });
+
+    return foundFilms;
   }
+
 
   ontologySearch(concept: Concept, value: string): Concept[] {
     // value is always in lower case.
@@ -182,5 +190,11 @@ export class AppComponent implements OnInit {
     });
 
     return foundConcepts;
+  }
+
+
+  onFilterByFilmTitle(filmTitle: string): void {
+    this.inputValue = filmTitle;
+    this.onSearch()
   }
 }

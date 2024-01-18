@@ -1,5 +1,11 @@
 # FilmsOntology
 
+Ontologie sur les films, réalisé par :
+Amaury Durand-Noël,
+Hüseyin Yurtseven,
+Rémi Chavance
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
 ## Development server

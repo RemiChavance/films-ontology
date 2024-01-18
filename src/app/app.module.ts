@@ -5,11 +5,13 @@ import { FormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FilmCardComponent } from './film-card/film-card.component';
+import { ConceptCardComponent } from './concept-card/concept-card.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    FilmCardComponent
+    FilmCardComponent,
+    ConceptCardComponent
   ],
   imports: [
     BrowserModule,

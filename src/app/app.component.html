@@ -1,8 +1,9 @@
 <div class="input-container">
     <input type="text" id="exampleInput" placeholder="Ecrit un film..." [(ngModel)]="inputValue" />
     <button class="button_search"  (click)="onSearch()">Search...</button>
-    <button class="button_reset" (click)="onResetFilter()">Reset</button>
+    <button class="button_reset" (click)="reloadFilmsList()">Reset</button>
 </div>
 
 
-<app-film-card *ngFor="let film of filmsList" [film]="film" (customFilter)="onGenreClicked($event)"></app-film-card>
+<app-film-card *ngFor="let film of filmsToDisplay" [film]="film" (customFilter)="onFilterByConcept($event)"></app-film-card>
+<app-concept-card *ngFor="let concept of conceptToDisplay" [concept]="concept" (customFilter)="onFilterByFilmTitle($event)"></app-concept-card>

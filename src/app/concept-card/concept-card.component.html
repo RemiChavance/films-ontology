@@ -1,0 +1,17 @@
+<div class="container-card">
+    <div class="card">
+        <div style="width: 100%; height: 100%;" (click)="onClick()">
+            <span style="font-size: 10px;">Concept</span>
+            <div class="header">{{ concept.name }}</div>
+        </div>
+        <div *ngIf="clicked">
+            <div class="body">
+                <input type="number" [(ngModel)]="nbFilmToDisplay" style="margin: 10px;"/>
+                <li *ngFor="let filmTitle of concept.films.slice(0, nbFilmToDisplay);" (click)="onClickFilter(filmTitle)">
+                    <span class="clickable">{{ filmTitle }}</span>
+                </li>
+            </div>
+            <div class="footer"></div>
+        </div>
+    </div> 
+<div>
