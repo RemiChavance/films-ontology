@@ -1,5 +1,5 @@
 <div class="input-container">
-    <input type="text" id="exampleInput" placeholder="Ecrit un film..." [(ngModel)]="inputValue" />
+    <input type="text" id="exampleInput" placeholder="Ecrit un film..." [(ngModel)]="inputValue" (keyup.enter)="onSearch()" />
     <button class="button_search"  (click)="onSearch()">Search...</button>
     <button class="button_reset" (click)="reloadFilmsList()">Reset</button>
 </div>

@@ -6,15 +6,15 @@
         </div>
         <div *ngIf="clicked">
             <div class="body">
-                <p>Réalisateur: {{ film.realisator }}</p>
-                <p (click)="onClickFilter('genre', film.genre)">Genre: <span  class="clickable">{{ film.genre }}</span></p>
+                <p><b>Réalisateur:</b> {{ film.realisator }}</p>
+                <p (click)="onClickFilter('genre', film.genre)"><b>Genre: </b> <span  class="clickable">{{ film.genre }}</span></p>
                 <br>
-                <p (click)="onClickFilter('actor1', film.actor1)"*ngIf="film.actor1">Tête d'affiche 1: <span  class="clickable">{{ film.actor1 }}</span></p>
-                <p (click)="onClickFilter('actor2', film.actor2)"*ngIf="film.actor2">Tête d'affiche 2: <span  class="clickable">{{ film.actor2 }}</span></p>
+                <p (click)="onClickFilter('actor1', film.actor1)"*ngIf="film.actor1"><b>Tête d'affiche 1: </b><span  class="clickable">{{ film.actor1 }}</span></p>
+                <p (click)="onClickFilter('actor2', film.actor2)"*ngIf="film.actor2"><b>Tête d'affiche 2: </b><span  class="clickable">{{ film.actor2 }}</span></p>
                 <br>
-                <p (click)="onClickFilter('releaseDate', film.releaseDate.toString())">Date de sortie: <span  class="clickable">{{ film.releaseDate }}</span></p>
-                <p (click)="onClickFilter('releaseDecade', film.releaseDecade!)">Film des années <span  class="clickable">{{ film.releaseDecade }}</span></p>
-                <p (click)="onClickFilter('length', film.length)">Durée approximative: <span  class="clickable">{{ film.length }}</span></p>
+                <p (click)="onClickFilter('releaseDate', film.releaseDate.toString())"><b>Date de sortie: </b><span  class="clickable">{{ film.releaseDate }}</span></p>
+                <p (click)="onClickFilter('releaseDecade', film.releaseDecade!)"><b>Film des années: </b> <span  class="clickable">{{ film.releaseDecade }}</span></p>
+                <p (click)="onClickFilter('length', film.length)"><b>Durée approximative: </b> <span  class="clickable">{{ film.length }}</span></p>
             </div>
             <div class="footer"></div>
         </div>

@@ -19,6 +19,5 @@ export class FilmCardComponent {
   
   onClickFilter(filterBy: string, value: string) {
     this.customFilter.emit({ filterBy, value });
-
   }
 }

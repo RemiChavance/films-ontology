@@ -135,12 +135,13 @@ export class AppComponent implements OnInit {
             this.filmsToDisplay.push(film); break;
       }
     });
+    this.renderer.setProperty(this.document.documentElement, 'scrollTop', 0);
   }
 
 
   onSearch(): void {
-    this.conceptToDisplay = this.ontologySearch(this.ontology, this.inputValue.toLowerCase());
     this.filmsToDisplay = this.filmsSearch(this.inputValue.toLowerCase());
+    this.conceptToDisplay = this.ontologySearch(this.ontology, this.inputValue.toLowerCase());
     this.renderer.setProperty(this.document.documentElement, 'scrollTop', 0);
   }
 
@@ -172,16 +173,19 @@ export class AppComponent implements OnInit {
     let foundConcepts: Concept[] = [];
 
     concept.subs.forEach(sub => {
-
       // first, check for names
       if (this.checkSimilarity(sub.name.toLowerCase(), value)) {
-        foundConcepts.push(sub);
+        if (!foundConcepts.includes(sub)) {
+          foundConcepts.push(sub);
+        }
       }
 
       // second, check for films list
       sub.films.forEach(f => {
         if (this.checkSimilarity(f.toLowerCase(), value)) {
-          foundConcepts.push(sub);
+          if (!foundConcepts.includes(sub)) {
+            foundConcepts.push(sub);
+          }
         }
       });
 
