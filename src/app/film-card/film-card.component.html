@@ -1,20 +1,29 @@
 <div class="container-card">
-    <div class="card">
+    <div class="card" [style]="recommandation ? 'background-color: #e7c9ce': 'background-color: #DBE7C9'">
         <div style="width: 100%; height: 100%;" (click)="onClick()">
-            <span style="font-size: 10px;">Film</span>
+            <span *ngIf="!recommandation" style="font-size: 10px;">Film</span>
+            <span *ngIf="recommandation" style="font-size: 10px;">Recommandation</span>
             <div class="header">{{ film.title }}</div>
         </div>
         <div *ngIf="clicked">
             <div class="body">
-                <p><b>Réalisateur:</b> {{ film.realisator }}</p>
-                <p (click)="onClickFilter('genre', film.genre)"><b>Genre: </b> <span  class="clickable">{{ film.genre }}</span></p>
-                <br>
-                <p (click)="onClickFilter('actor1', film.actor1)"*ngIf="film.actor1"><b>Tête d'affiche 1: </b><span  class="clickable">{{ film.actor1 }}</span></p>
-                <p (click)="onClickFilter('actor2', film.actor2)"*ngIf="film.actor2"><b>Tête d'affiche 2: </b><span  class="clickable">{{ film.actor2 }}</span></p>
-                <br>
-                <p (click)="onClickFilter('releaseDate', film.releaseDate.toString())"><b>Date de sortie: </b><span  class="clickable">{{ film.releaseDate }}</span></p>
-                <p (click)="onClickFilter('releaseDecade', film.releaseDecade!)"><b>Film des années: </b> <span  class="clickable">{{ film.releaseDecade }}</span></p>
-                <p (click)="onClickFilter('length', film.length)"><b>Durée approximative: </b> <span  class="clickable">{{ film.length }}</span></p>
+                <div class="container-data-card" style="display: flex; justify-content: space-between; align-items: center">
+                    <div>
+                        <p><b>Réalisateur:</b> {{ film.realisator }}</p>
+                        <p (click)="onClickFilter('genre', film.genre)"><b>Genre: </b> <span  class="clickable">{{ film.genre }}</span></p>
+                        <br>
+                        <p (click)="onClickFilter('actor1', film.actor1)"*ngIf="film.actor1"><b>Tête d'affiche 1: </b><span  class="clickable">{{ film.actor1 }}</span></p>
+                        <p (click)="onClickFilter('actor2', film.actor2)"*ngIf="film.actor2"><b>Tête d'affiche 2: </b><span  class="clickable">{{ film.actor2 }}</span></p>
+                        <br>
+                        <p (click)="onClickFilter('releaseDate', film.releaseDate.toString())"><b>Date de sortie: </b><span  class="clickable">{{ film.releaseDate }}</span></p>
+                        <p (click)="onClickFilter('releaseDecade', film.releaseDecade!)"><b>Film des années: </b> <span  class="clickable">{{ film.releaseDecade }}</span></p>
+                        <p (click)="onClickFilter('length', film.length)"><b>Durée approximative: </b> <span  class="clickable">{{ film.length }}</span></p>
+                    </div>
+                    <div>
+                        <img [src]="film.poster" style="border-radius: 5px;
+                        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); width:300px; height:300px"/>
+                    </div>
+                </div>
             </div>
             <div class="footer"></div>
         </div>

@@ -9,6 +9,7 @@ import { Film } from '../models/film.model';
 export class FilmCardComponent {
 
   @Input() film!: Film;
+  @Input() recommandation!: boolean;
   @Output() customFilter: EventEmitter<{ filterBy: string, value: string }> = new EventEmitter<{ filterBy: string, value: string }>();
 
   clicked = false;

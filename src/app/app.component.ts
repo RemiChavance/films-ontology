@@ -15,8 +15,13 @@ export class AppComponent implements OnInit {
 
   ontology: Concept = ontologyStart;
   filmsToDisplay: Film[] = [];
-  conceptToDisplay: Concept[] = [];
+  conceptsToDisplay: Concept[] = [];
   inputValue!: string;
+
+  recommandationNumber: number = 3; // Augment this number to have more recommandation.
+  ignoreConceptForRecommendation = ['releaseDecade', 'length']; // We ignore this concept while doing recommandation because it not good.
+  recommandationFilms: Film[] = [];
+
 
   constructor(
     @Inject(DOCUMENT) private document: Document,
@@ -106,7 +111,8 @@ export class AppComponent implements OnInit {
 
   reloadFilmsList(): void {
     this.filmsToDisplay = [...films];
-    this.conceptToDisplay = [];
+    this.conceptsToDisplay = [];
+    this.recommandationFilms = [];
   }
 
 
@@ -140,8 +146,34 @@ export class AppComponent implements OnInit {
 
 
   onSearch(): void {
+    if (this.inputValue === '') return;
+    
+    this.reloadFilmsList()
+
     this.filmsToDisplay = this.filmsSearch(this.inputValue.toLowerCase());
-    this.conceptToDisplay = this.ontologySearch(this.ontology, this.inputValue.toLowerCase());
+    this.conceptsToDisplay = this.ontologySearch(this.ontology, this.inputValue.toLowerCase(), false);
+
+    let associateConcepts: Concept[] = []
+    this.conceptsToDisplay.forEach(concept => {
+      
+      this.ontologySearch(this.ontology, concept.name.toLowerCase(), true).forEach((c:Concept) => { 
+        if (!associateConcepts.includes(c)) {
+          associateConcepts.push(c);
+        }
+      });
+    
+    });
+
+    associateConcepts.forEach((concept: Concept) => {      
+      for (let i=0; i<this.recommandationNumber; i++) {
+        if (i >= concept.films.length) break;
+        let film: Film = this.filmsSearchByName(concept.films[i])!;
+        if (!this.recommandationFilms.includes(film) && !this.filmsToDisplay.includes(film)) {
+          this.recommandationFilms.push(film);
+        }
+      }
+    });
+
     this.renderer.setProperty(this.document.documentElement, 'scrollTop', 0);
   }
 
@@ -153,6 +185,16 @@ export class AppComponent implements OnInit {
     return false;
   }
 
+
+  filmsSearchByName(value: string): Film | undefined {
+    value = value.toLowerCase();
+    for (const f of films) {
+      if (value === f.title.toLowerCase()) {
+        return f;
+      }
+    }
+    return undefined;
+  }
 
   filmsSearch(value: string): Film[] {
     let foundFilms: Film[] = [];
@@ -167,30 +209,59 @@ export class AppComponent implements OnInit {
   }
 
 
-  ontologySearch(concept: Concept, value: string): Concept[] {
+  ontologySearch(concept: Concept, value: string, isRecommandation: boolean): Concept[] {
     // value is always in lower case.
 
     let foundConcepts: Concept[] = [];
 
     concept.subs.forEach(sub => {
-      // first, check for names
-      if (this.checkSimilarity(sub.name.toLowerCase(), value)) {
-        if (!foundConcepts.includes(sub)) {
-          foundConcepts.push(sub);
+      // check if its a recommandation or not
+      if (isRecommandation) {
+
+        if (!this.ignoreConceptForRecommendation.includes(sub.name)) {
+          // first, check for names
+          if (this.checkSimilarity(sub.name.toLowerCase(), value)) {
+            if (!foundConcepts.includes(sub)) {
+              foundConcepts.push(sub);
+            }
+          }
+    
+          // second, check for films list
+          sub.films.forEach(f => {
+            if (this.checkSimilarity(f.toLowerCase(), value)) {
+              if (!foundConcepts.includes(sub)) {
+                foundConcepts.push(sub);
+              }
+            }
+          });
+    
+          // third, check for subs
+          foundConcepts = foundConcepts.concat(this.ontologySearch(sub, value, isRecommandation))
+
         }
       }
+      else
+      {
 
-      // second, check for films list
-      sub.films.forEach(f => {
-        if (this.checkSimilarity(f.toLowerCase(), value)) {
+        // first, check for names
+        if (this.checkSimilarity(sub.name.toLowerCase(), value)) {
           if (!foundConcepts.includes(sub)) {
             foundConcepts.push(sub);
           }
         }
-      });
-
-      // third, check for subs
-      foundConcepts = foundConcepts.concat(this.ontologySearch(sub, value))
+  
+        // second, check for films list
+        sub.films.forEach(f => {
+          if (this.checkSimilarity(f.toLowerCase(), value)) {
+            if (!foundConcepts.includes(sub)) {
+              foundConcepts.push(sub);
+            }
+          }
+        });
+  
+        // third, check for subs
+        foundConcepts = foundConcepts.concat(this.ontologySearch(sub, value, isRecommandation))
+      }
     });
 
     return foundConcepts;

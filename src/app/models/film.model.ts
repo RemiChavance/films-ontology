@@ -7,4 +7,5 @@ export class Film {
     releaseDecade!: string|null;
     releaseDate!: number;
     length!: string;
+    poster!: string;
 }

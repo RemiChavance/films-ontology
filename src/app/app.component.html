@@ -5,5 +5,6 @@
 </div>
 
 
-<app-film-card *ngFor="let film of filmsToDisplay" [film]="film" (customFilter)="onFilterByConcept($event)"></app-film-card>
-<app-concept-card *ngFor="let concept of conceptToDisplay" [concept]="concept" (customFilter)="onFilterByFilmTitle($event)"></app-concept-card>
+<app-film-card *ngFor="let film of filmsToDisplay" [film]="film" [recommandation]="false" (customFilter)="onFilterByConcept($event)"></app-film-card>
+<app-concept-card *ngFor="let concept of conceptsToDisplay" [concept]="concept" (customFilter)="onFilterByFilmTitle($event)"></app-concept-card>
+<app-film-card *ngFor="let film of recommandationFilms" [film]="film" [recommandation]="true" (customFilter)="onFilterByConcept($event)"></app-film-card>
